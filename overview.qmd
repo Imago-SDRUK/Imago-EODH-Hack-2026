@@ -1,0 +1,25 @@
+# Overview {#sec-overview .unnumbered}
+
+Cities in the UK are being asked to plan for **hotter summers**. Local authorities need to know which neighbourhoods overheat, who lives there, and where new trees or parks would do the most good — but the evidence to answer these questions is often patchy, out of date, too coarse to show differences between neighbourhoods, or locked in specialist formats.
+
+**Earth observation (EO)** data offers a different way in. Satellites measure land surface temperature, vegetation and land cover repeatedly and consistently, across every neighbourhood at once. Turned into the right indicators and joined to the geographies councils already use, these "pixels" can inform everyday policy decisions.
+
+**From Pixels to Policy** is a one-day hackathon that tests this idea on real challenges in **Newcastle and the wider** North East Mayoral Strategic Authority. Mixed teams of policy and technical participants will work with data from **Imago** and the **Earth Observation Data Hub (EODH)** to produce outputs that a local authority could actually use.
+
+## Themes {.unnumbered}
+
+| Theme | Example questions |
+|-------------------------|------------------------------------------------|
+| **Urban heat** | What sets the hottest neighbourhoods apart from the coolest? |
+| **Greenspace and cooling** | How strongly is vegetation linked to lower surface temperature, and where does that break down? |
+| **Unequal exposure** | Is exposure to heat unequal across social groups, and how much of the gap is linked to greenspace? |
+
+Each theme has a [problem statement](probstatement.qmd); teams choose one and confirm it at the [team meeting on 30 November](preparation.qmd).
+
+## Partners {.unnumbered}
+
+**Imago: Data Service for Imagery** ([imago.ac.uk](https://imago.ac.uk/)) is a Smart Data Research UK (SDR UK) data service, funded by UKRI, that turns satellite imagery into ready-to-use data products for social science and policy research. Imago brings together research teams at the Universities of Liverpool and Newcastle and at Harvard.
+
+**The Earth Observation Data Hub (EODH)** ([eodatahub.org.uk](https://eodatahub.org.uk/)) is a single point of access to UK Earth observation data and processing infrastructure. It is led by the National Centre for Earth Observation (NCEO) and funded by NERC with the UK Space Agency. Participants will use EODH **workspaces** to find, access and analyse data on the day.
+
+**Insights North East (INE)** ([insightsnortheast.co.uk](https://insightsnortheast.co.uk/)) is a collaborative hub for place-based policy insights, based at Newcastle University. Its **North East Data Network (DataNEt)**, co-created with the North East Mayoral Strategic Authority, connects data experts with policymakers and decision-makers across the region.

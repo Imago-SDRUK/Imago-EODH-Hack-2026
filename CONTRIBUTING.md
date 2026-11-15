@@ -12,8 +12,8 @@ Thank you for your interest in contributing to this project! We welcome all kind
 2. **Clone your fork**  
    Open your terminal and run:  
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Template.git
-   cd Template
+   git clone https://github.com/YOUR-USERNAME/Imago-EODH-Hack-2026.git
+   cd Imago-EODH-Hack-2026
    ```
 
 3. **Create a new branch**  

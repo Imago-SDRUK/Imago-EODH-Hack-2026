@@ -1,0 +1,85 @@
+# Getting Started with EODH {#sec-eodh .unnumbered}
+
+On the day, all teams work in the **Earth Observation Data Hub (EODH)**. Please complete **Steps 1–2 before the [EODH workspace introduction on Wednesday 2 December](preparation.qmd)**, so that the session can focus on data and notebooks rather than logins.
+
+::: callout-tip
+**In short**\
+Create an EODH account with your GitHub, Google (Gmail) or Microsoft login → tell us the email you used → we add you to your team's workspace → open a notebook.
+:::
+
+------------------------------------------------------------------------
+
+## Access levels {.unnumbered}
+
+The EODH has three access levels:
+
+| Access level | What it allows | Do you need it? |
+|------------------|-------------------------------|------------------|
+| **Open access** | Browse the site and docs, search the catalogue, view and download open imagery. No sign-in. | Useful for exploring beforehand |
+| **User account** | Join and work in shared workspaces you've been invited to. You can't create workspaces. | **Yes — every technical participant** |
+| **User account + billing account** | Create and manage your own workspaces, plus commercial data, hosted notebooks, storage and workflows. | **No** — the organisers handle workspaces |
+
+You only need a **user account**. The organisers will set up team workspaces and add you to yours.
+
+<!-- TODO: confirm with EODH that hackathon workspaces cover hosted notebooks for all members, and who is the workspace owner -->
+
+------------------------------------------------------------------------
+
+## Step 1 — Create your account {.unnumbered}
+
+1.  Go to [eodatahub.org.uk](https://eodatahub.org.uk/) and click **Sign in** (top right).
+2.  Choose an identity provider: **GitHub**, **Google (Gmail)** or **Microsoft**. You need one of these to create an account.
+3.  Sign in with that provider's credentials.
+4.  On your first login, fill in the account information fields.
+
+Notes for each provider:
+
+-   **GitHub:** on first login you'll be asked to authorise EO-DataHub.
+-   **Google:** on first login, review the identity information requested and select **Continue**.
+-   **Microsoft (e.g. a council or university account):** signing in sends an access request email ("Request for access to eodh-prod received") that **expires after 24 hours**. Your organisation's Microsoft administrator has to approve the `eodh-prod` application once, after which anyone in your organisation can sign in.
+
+::: callout-warning
+**Using a work Microsoft account?**\
+Council and NHS IT approval can take time. If you plan to sign in with a work Microsoft account, **start before 30 November**, or use a personal GitHub or Gmail account instead.
+:::
+
+Full guide: [EODH — User accounts](https://docs.eodatahub.org.uk/Getting-Started/user-accounts/)
+
+------------------------------------------------------------------------
+
+## Step 2 — Send us your account email {.unnumbered}
+
+Once your account exists, send the **email address linked to your EODH account** to the organisers so we can add you to your team's workspace.
+
+<!-- TODO: add who to send this to (form or email) and a deadline, e.g. Fri 27 November -->
+
+------------------------------------------------------------------------
+
+## Step 3 — Open a notebook in your workspace {.unnumbered}
+
+When you've been added to a workspace (we'll walk through this on 2 December):
+
+1.  From the EODH homepage, open **Notebooks** in the navigation bar and sign in if prompted.
+2.  Click **Start My Server**.
+3.  Select your **team's workspace**. This decides which storage is mounted in your notebook.
+4.  Select a profile. The **EO DataHub default image** is recommended, as it comes with extra packages including the `pyeodh` client. A plain Python image is also available. The hackathon supports **Python only**.
+5.  Click **Start**, wait for the server, then create a notebook from the **Python 3 (ipykernel)** tile.
+
+::: callout-note
+**Good habits**\
+Stop your server when you're done via **File → Hub Control Panel**; logging out doesn't stop it. Idle servers shut down after one hour, so save your work often.
+:::
+
+Full guide: [EODH — Notebook service](https://docs.eodatahub.org.uk/Analysts/notebook-service/notebooks-start/)
+
+------------------------------------------------------------------------
+
+## Step 4 — Explore before the day (optional) {.unnumbered}
+
+-   [**Resource catalogue: data discovery**](https://docs.eodatahub.org.uk/Explorers/resource-catalogue/data-discovery/): search and browse what's on the Hub (no login needed).
+-   [**Setup walkthrough**](https://docs.eodatahub.org.uk/training-materials/walkthrough/0_202502_setup/), then the [discovery](https://docs.eodatahub.org.uk/training-materials/walkthrough/1_202502_discovery/), [processing](https://docs.eodatahub.org.uk/training-materials/walkthrough/2_202502_processing/) and [visualisation](https://docs.eodatahub.org.uk/training-materials/walkthrough/3_202502_datavis/) walkthroughs.
+-   **Heat-relevant examples:** [Mapping land surface temperature across the UK](https://docs.eodatahub.org.uk/training-materials/examples/mapping-lst-uk/) and [Landsat land surface temperature](https://docs.eodatahub.org.uk/training-materials/examples/landsat_lst/). These are good starting points for the *What makes a hotspot?* and *Does green cool?* challenges.
+-   [**`pyeodh`**](https://docs.eodatahub.org.uk/Developers/tools/pyeodh/), the Python client for EODH APIs.
+-   Prefer desktop GIS? EODH can also be reached from [QGIS](https://docs.eodatahub.org.uk/Explorers/access-points/QGIS/) and [ArcGIS](https://docs.eodatahub.org.uk/Explorers/access-points/arcgis-setup/).
+
+**Stuck?** See the [EODH FAQs](https://docs.eodatahub.org.uk/Help/faqs/) and [cheat sheet](https://docs.eodatahub.org.uk/Help/cheat-sheet/), or bring your question to the 2 December session.

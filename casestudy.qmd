@@ -1,0 +1,46 @@
+# Case Study: Newcastle and the North East {.unnumbered}
+
+The hackathon starts from **Newcastle upon Tyne**. Working on one city lets teams go deep on local detail, use the geographies the council already works with, and produce outputs that local partners can recognise and test against what they know on the ground. Teams can scale up to the **North East Mayoral Strategic Authority area** to compare the city with its neighbours, towns and rural areas.
+
+## Why Newcastle? {.unnumbered}
+
+-   **A mix of urban forms.** Dense terraced and inner-city neighbourhoods, large post-war estates, suburbs, river corridor, and major green spaces such as the Town Moor and Jesmond Dene all sit within one local authority. That mix produces real variation in heat and greenspace.
+-   **Strong local partnerships.** Insights North East and the North East Data Network connect researchers directly with local authority and public health teams, so problem statements come from real policy needs.
+-   **Heat in a cool region.** The North East is among the cooler parts of England, which keeps cold exposure a live public health concern, yet hot spells still produce marked differences in heat between neighbourhoods, and a region less used to heat may be less prepared for it.
+-   **A regional comparison.** The wider North East adds Gateshead, Sunderland, the Tyneside boroughs, County Durham and Northumberland, from dense urban cores to market towns and rural areas.
+
+<!-- TODO: add 2–3 headline facts from local partners (e.g. relevant council strategies, heat–health or tree-planting plans) once confirmed -->
+
+## Geographies {.unnumbered}
+
+To make outputs usable by local partners, teams are encouraged to summarise EO data to standard statistical geographies:
+
+| Geography | Typical population | Use |
+|------------------|------------------|-------------------------------------|
+| **Output Area (OA)** | \~125 households | Fine-grained neighbourhood detail |
+| **Lower Layer Super Output Area (LSOA)** | \~1,000–3,000 people | Standard unit for deprivation and many Imago products |
+| **Middle Layer Super Output Area (MSOA)** | \~5,000–15,000 people | Neighbourhood summaries |
+| **Electoral ward** | varies | Matches how councillors and services think about place |
+
+Boundaries are available from the [ONS Open Geography Portal](https://geoportal.statistics.gov.uk/).
+
+### Areas in the study region {.unnumbered}
+
+Number of 2021 MSOAs and LSOAs in each local authority of the North East Mayoral Strategic Authority area.
+
+| Local authority | MSOAs | LSOAs |
+|------------------------|-----------:|-----------:|
+| Newcastle upon Tyne | 34 | 180 |
+| Gateshead | 27 | 126 |
+| North Tyneside | 30 | 133 |
+| South Tyneside | 23 | 103 |
+| Sunderland | 36 | 185 |
+| County Durham | 65 | 330 |
+| Northumberland | 38 | 200 |
+| **North East MSA total** | **253** | **1,257** |
+
+Newcastle alone has only 34 MSOAs, which is few for estimating relationships. See *Choosing your scale* on the [Challenges](probstatement.qmd) page.
+
+::: {.callout-note title="Pixels and places"}
+Satellite data come as **pixels** (for example 10 m, 30 m or 1 km grids); policy works in **places**. A big part of every challenge is deciding how to move between the two: which pixels belong to an LSOA, how to treat water and roads, and whether a mean, a maximum or a share of pixels above a threshold best answers the question.
+:::

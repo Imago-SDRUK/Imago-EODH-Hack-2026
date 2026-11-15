@@ -1,0 +1,48 @@
+# Preparation Meetings {#sec-preparation .unnumbered}
+
+For the day to run smoothly, **it is essential that all attendees take part in both preparation meetings.** They let teams meet in advance, agree their problem statement and get the technical workspace working before arriving in Newcastle.
+
+| Meeting | Date and time | Purpose |
+|------------------|------------------|-------------------------------------|
+| **1. Team meeting** | **Monday 30 November** · time TBC per team | Meet your team and receive your problem statement |
+| **2. EODH workspace introduction** | **Wednesday 2 December** · 11:00–12:00 | Introduction to the EODH technical workspace |
+
+------------------------------------------------------------------------
+
+## 1. Team meeting — Monday 30 November {.unnumbered}
+
+**Time:** to be confirmed for each group\
+**Format:** online <!-- TODO: confirm platform and link -->
+
+In this session you will:
+
+-   Meet the other members of your team
+-   Receive your team's **problem statement** from our policy partners
+-   Discuss what decision the problem statement supports and who would use the output
+-   Agree roles for the day (e.g. data lead, policy lead, presenter)
+
+::: callout-note
+**Can't attend?**\
+If you can't make your team's slot, you can contribute **by email** instead. Let the organisers know in advance and we'll share the problem statement and ask for your input on scope and roles.
+:::
+
+------------------------------------------------------------------------
+
+## 2. EODH workspace introduction — Wednesday 2 December, 11:00–12:00 {.unnumbered}
+
+**Format:** online <!-- TODO: confirm platform and link -->
+
+The Earth Observation Data Hub team will introduce the technical workspace you'll use on the day. The session covers:
+
+-   Creating your EODH account and signing in to the Hub platform
+-   Joining your team's **workspace**
+-   Finding datasets in the resource catalogue
+-   Running a starter notebook against the hackathon data
+-   Q&A
+
+::: callout-tip
+**Before 2 December**\
+Create your EODH account (with a GitHub, Google or Microsoft login) and send us the email address you used, following **Steps 1–2 of [Getting Started with EODH](eodh-start.qmd)**.
+:::
+
+Policy participants are very welcome at this session too — seeing what the workspace can do will help when shaping your team's question — but it is most important for technical participants.

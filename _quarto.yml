@@ -1,0 +1,48 @@
+project:
+  type: book
+  output-dir: docs
+  render:
+    - "*.qmd"
+
+book:
+  title: "From Pixels to Policy"
+  author: "Imago, with EODH and Insights North East"
+  date: today
+  favicon: assets/Imago-logo.png
+  reader-mode: true
+  chapters:
+    - index.qmd
+    - overview.qmd
+    - part: workshop.qmd
+      chapters:
+        - preparation.qmd
+        - eodh-start.qmd
+    - part: probstatement.qmd
+      chapters:
+        - casestudy.qmd
+        - datasets.qmd
+        - output.qmd
+        - resources.qmd
+    - references.qmd
+
+  page-footer:
+    left: |
+      Imago | UKRI Imagery Data Service
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+  site-url: https://imago-sdruk.github.io/Imago-EODH-Hack-2026
+  repo-url: https://github.com/Imago-SDRUK/Imago-EODH-Hack-2026
+  repo-actions: [edit, issue]
+
+margin-header: |
+  ![](/assets/all_logos.png){fig-alt="Imago, Earth Observation Data Hub and Insights North East logos"}
+
+format:
+  html:
+    theme:
+      - cosmo
+      - imago.scss
+    toc: true
+    toc-depth: 3
+
+editor: visual

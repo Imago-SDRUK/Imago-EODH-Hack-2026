@@ -1,0 +1,121 @@
+/*-- Imago website theme for Quarto (HTML book) --*/
+/*-- A light touch on top of cosmo, in the spirit of the Imago Book of Imagery --*/
+
+/*-- scss:defaults --*/
+
+// Imago colour palette
+$navy:       #24226F;
+$grey:       #B8BCD1;
+$green:      #03CEA3;
+$orange:     #FF8F42;
+$light-grey: #E2E5F3;
+$blue:       #1877CF;
+$dark-grey:  #8C91A8;
+$white:      #FFFFFF;
+$imago-grey: #4a4a49;
+
+// Base
+$body-bg:    $white;
+$body-color: $imago-grey;
+
+$primary:          $navy;
+$link-color:       $navy;
+$link-hover-color: darken($orange, 10%);
+
+// Typography
+$font-family-sans-serif: 'Figtree', system-ui, -apple-system, sans-serif;
+$headings-font-family:   'Figtree', sans-serif;
+$headings-font-weight:   600;
+$headings-color:         $navy;
+
+// Callouts
+$callout-color-note:      $blue;
+$callout-color-tip:       $green;
+$callout-color-warning:   $orange;
+$callout-color-important: $navy;
+
+/*-- scss:rules --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+// Sidebar: plain, with a small orange marker on the current page
+#quarto-sidebar {
+  .sidebar-title a { color: $navy; }
+  .sidebar-link.active .menu-text { color: $navy; font-weight: 600; }
+  .sidebar-link.active { border-left: 3px solid $orange; padding-left: 0.5rem; }
+}
+
+// Links: navy text with an Imago-orange underline
+main a, .nav-footer a {
+  text-decoration-color: $orange;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  &:hover { color: darken($orange, 10%); }
+}
+
+// Headings
+h1.title { color: $navy; }
+h2 { border-bottom: 1px solid $light-grey; padding-bottom: 0.2rem; }
+h3 { color: $navy; }
+
+strong, b { color: $navy; }
+
+// Tables: light-grey header row
+table thead th {
+  background-color: $light-grey;
+  color: $navy;
+  font-weight: 600;
+}
+
+// Blockquotes
+blockquote { border-left: 3px solid $green; color: $imago-grey; }
+
+// TOC: green marker on the current section
+#TOC .nav-link.active { color: $navy; font-weight: 600; border-left-color: $green !important; }
+
+// Challenge cards (probstatement.qmd): a thin coloured edge, nothing more
+.p2p-card {
+  border-left: 4px solid $orange;
+  padding: 0.2rem 0 0.2rem 1rem;
+  margin: 1rem 0;
+  &.green { border-left-color: $green; }
+  &.blue  { border-left-color: $blue; }
+}
+
+// Key-facts boxes (index.qmd)
+.p2p-facts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  margin: 1rem 0 2rem 0;
+
+  .p2p-fact {
+    flex: 1 1 10rem;
+    background: $white;
+    border: 1px solid $light-grey;
+    border-radius: 10px;
+    padding: 0.8rem 1rem;
+    border-top: 5px solid $green;
+
+    &:nth-child(2) { border-top-color: $orange; }
+    &:nth-child(3) { border-top-color: $blue; }
+    &:nth-child(4) { border-top-color: $grey; }
+
+    .p2p-fact-label { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.06em; color: $dark-grey; }
+    .p2p-fact-value { font-size: 1.05rem; font-weight: 700; color: $navy; }
+  }
+}
+
+// Margin logo
+.margin-header img { max-width: 150px; height: auto; }
+
+// Footer: kept simple, as in the Book of Imagery
+.nav-footer { font-size: 0.85rem; }
+
+// Utility classes shared with the slide theme
+.navy   { color: $navy !important; }
+.green  { color: $green !important; }
+.orange { color: $orange !important; }
+.blue   { color: $blue !important; }
+.hlg       { background-color: rgba($orange, 0.3); padding: 0.05em 0.15em; border-radius: 0.2em; }
+.hlg-green { background-color: rgba($green, 0.3);  padding: 0.05em 0.15em; border-radius: 0.2em; }

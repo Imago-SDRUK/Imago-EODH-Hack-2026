@@ -1,0 +1,45 @@
+# Outputs {.unnumbered}
+
+## Expected Outputs {.unnumbered}
+
+With only one day, aim for **one clear answer to one well-framed question** rather than a complete analysis. Each team produces one of the following, depending on its challenge:
+
+**1. A hotspot comparison** *(What makes a hotspot?)*\
+The hottest and coolest areas, a side-by-side comparison of their surface cover and built-up density, and three or four examples illustrated with Sentinel-2 imagery.
+
+**2. A greenness–temperature analysis** *(Does green cool?)*\
+A plot of the land surface temperature–NDVI relationship for day and night, and a map of places that are hotter than their greenness predicts, with a short note on why for two or three of them.
+
+**3. A heat inequality brief** *(Who lives in the heat?)*\
+Heat exposure gaps for two or three social groups, a simple model showing how each gap changes once greenspace is accounted for, and a one-slide policy summary for Insights North East.
+
+Outputs can take whatever form best communicates the findings: a static map with a short brief, a notebook, a simple dashboard or an interactive map.
+
+------------------------------------------------------------------------
+
+## Presentation {.unnumbered}
+
+Each team gives a **5-minute presentation (maximum 5 slides)** at the end of the day, followed by 2 minutes of questions. The [judges](workshop.qmd#mentors-and-judges) will give feedback on relevance, use of the data, honesty about limits and clarity. A good presentation covers:
+
+1.  **The question** — what decision does this support, and for whom?
+2.  **The data** — what you used and why
+3.  **The finding** — the one thing a decision-maker should take away
+4.  **The caveats** — what the data can't tell you
+5.  **Next steps** — what would make this usable in practice
+
+Teams are encouraged to share their code and outputs in a GitHub repository.
+
+------------------------------------------------------------------------
+
+## After the hackathon {.unnumbered}
+
+Imago will showcase outputs from the day as **data stories** in the **Book of Imagery** or on the Imago blog. Teams whose work is featured will be credited and invited to help shape the story. To make this easy:
+
+-   keep your notebook tidy and runnable from top to bottom;
+-   save your key map or figure as an image;
+-   write two or three sentences on the finding and what it means for policy.
+
+::: callout-note
+**Recognition**\
+All team contributions incorporated into future published work will be acknowledged. Promising outputs may be developed further with Imago, the EODH and Insights North East after the event.
+:::

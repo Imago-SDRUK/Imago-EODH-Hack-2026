@@ -1,0 +1,78 @@
+# The Hackathon Day {#sec-workshop .unnumbered}
+
+**Wednesday 9 December 2026 · 10:00–16:00 · Newcastle, UK — venue TBC**
+
+A collaborative, fast-paced day working in small interdisciplinary teams on real-world local challenges, using Earth observation products from Imago and the EODH.
+
+::: callout-important
+**Before the day**\
+All participants should attend the two [preparation meetings](preparation.qmd): the **team meeting on Monday 30 November** and the **EODH workspace introduction on Wednesday 2 December**. Arriving with your team formed, your problem statement in hand and your EODH workspace working is what makes a six-hour hackathon possible.
+:::
+
+------------------------------------------------------------------------
+
+## Schedule {.unnumbered}
+
+*Draft schedule — timings may shift slightly once the venue is confirmed.*
+
+| Time | Session |
+|-----------------|--------------------------------------------------|
+| 09:30–10:00 | Arrival, registration and coffee |
+| 10:00–10:30 | Welcome, framing and a quick tour of the data |
+| 10:30–12:30 | **Sprint 1** — scope, explore and build |
+| 12:30–13:15 | Lunch |
+| 13:15–13:30 | Mid-point stand-up (2 minutes per team) |
+| 13:30–15:00 | **Sprint 2** — build, refine and prepare to present |
+| 15:00–15:45 | Team presentations (5 min + 2 min Q&A) |
+| 15:45–16:00 | Feedback from policy partners and close |
+
+------------------------------------------------------------------------
+
+## Session details {.unnumbered}
+
+### 10:00–10:30 — Welcome and framing {.unnumbered}
+
+Why Earth observation for local policy, what Imago and the EODH provide, and how the day connects to the North East's priorities on heat and greenspace.
+
+<!-- TODO: confirm speakers — Imago, EODH, INE, local authority -->
+
+### 10:30–12:30 — Sprint 1 {.unnumbered}
+
+Teams agree a focused question within their problem statement, explore the data in their EODH workspace and start building. Mentors from Imago and the EODH circulate to help with data access and methods; policy participants help keep the work anchored to a real decision.
+
+### 13:15–13:30 — Mid-point stand-up {.unnumbered}
+
+Each team gives a two-minute update: what question you're answering, what's working and what's blocking you.
+
+### 13:30–15:00 — Sprint 2 {.unnumbered}
+
+Finish the analysis, make the output readable for a non-technical audience and prepare a short presentation.
+
+### 15:00–16:00 — Presentations and close {.unnumbered}
+
+Each team presents for **5 minutes** with **2 minutes of questions**. Policy partners reflect on which outputs feel most useful and how they might be taken forward.
+
+------------------------------------------------------------------------
+
+## Mentors and judges {.unnumbered}
+
+**Mentors.** Each team is supported through the day by mentors from **Imago** and the **EODH**, who help with data access, methods and code, and by policy mentors who help keep the work anchored to a real decision. Mentors also join the [team meeting on 30 November](preparation.qmd) and the [EODH session on 2 December](preparation.qmd).
+
+**Judges.** A small panel of policy and technical partners will watch the presentations and give feedback. They will look for:
+
+-   **Relevance:** does the output answer a question a council or public health team actually needs answered?
+-   **Use of the data:** is the data used sensibly, at a scale that suits the question?
+-   **Honesty:** are the limits of the data and method clear?
+-   **Clarity:** could a non-technical decision-maker understand and act on it?
+
+*Names of mentors and judges will be announced before the event.*
+
+<!-- TODO: add mentor and judge names once confirmed -->
+
+------------------------------------------------------------------------
+
+## What to bring {.unnumbered}
+
+-   A laptop and charger (technical participants)
+-   Your **EODH login** set up at the 2 December session
+-   Any local knowledge, documents or policy questions relevant to your problem statement (policy participants)

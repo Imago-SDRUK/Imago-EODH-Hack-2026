@@ -205,3 +205,17 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# macOS
+.DS_Store
+
+# R / RStudio
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Quarto (rendered site in docs/ IS committed for GitHub Pages)
+/.quarto/
+**/*.quarto_ipynb
+.positai

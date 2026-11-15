@@ -1,0 +1,444 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "From Pixels to Policy",
+    "section": "",
+    "text": "Welcome\nThis website hosts the materials for From Pixels to Policy, a one-day, hands-on hackathon where you’ll brainstorm and code your way through some of the most pressing heat and greenspace challenges facing a UK city region.\nThe hackathon is organised by Imago: Data Service for Imagery in collaboration with the Earth Observation Data Hub (EODH) and the North East Data Network (DataNEt) at Insights North East (INE). It brings together local authority professionals, policy experts and data/technical practitioners to explore how satellite imagery and Earth observation (EO) data can inform local responses to urban heat, greenspace and unequal exposure in Newcastle and the wider North East.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#who-is-this-for",
+    "href": "index.html#who-is-this-for",
+    "title": "From Pixels to Policy",
+    "section": "Who is this for?",
+    "text": "Who is this for?\nPolicy & public sector participants. Local authority officers, policy makers and public health practitioners interested in new data sources, or in fresh ways of working with environmental and spatial data. You don’t need to code — your knowledge of how decisions actually get made is what turns a map into a policy.\nTechnical participants. Data scientists, programmers and GIS/geographic data specialists who want to collaborate on practical, hands-on data challenges using Earth observation products from Imago and the EODH.\nTeams are deliberately mixed so that every group combines policy and operational knowledge with analytical capability.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#event-at-a-glance",
+    "href": "index.html#event-at-a-glance",
+    "title": "From Pixels to Policy",
+    "section": "Event at a Glance",
+    "text": "Event at a Glance\nAttendance at both preparation meetings is essential for the day to run smoothly. Click any row for details.\n\n\n\nWhen\nWhat\nWho\n\n\n\n\nMon 30 November · 11:00-13:00\nTeam meeting: meet your team and chose your problem statement\nAll participants (email input possible if you can’t attend)\n\n\nWed 2 December · 11:00–12:00\nEODH pre-meeting: introducing the workspace and starter scripts\nAll participants\n\n\nWed 9 December · 10:00–16:00\nHackathon day in Newcastle\nAll participants\n\n\nThu 10 December\nImago Annual Summit, Newcastle\nOptional — details to follow",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#register",
+    "href": "index.html#register",
+    "title": "From Pixels to Policy",
+    "section": "Register",
+    "text": "Register\nRegistration is through Eventbrite. Places are limited so that teams stay small and balanced.\nTo find out more, contact Brigid Bell at brigid.bell@liverpool.ac.uk.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#partners",
+    "href": "index.html#partners",
+    "title": "From Pixels to Policy",
+    "section": "Partners",
+    "text": "Partners\n\n\n\nPartner\nRole\n\n\n\n\nImago: Data Service for Imagery\nOrganiser; satellite-derived data products (Data Catalogue)\n\n\nEarth Observation Data Hub (EODH)\nTechnical workspace and access to UK Earth observation data\n\n\nInsights North East (INE) · North East Data Network\nPolicy partnerships and the North East data–policy community",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "From Pixels to Policy",
+    "section": "Contact",
+    "text": "Contact\n\nBrigid Bell, Imago Partnerships and Impact Officer — brigid.bell [at] liverpool.ac.uk\n\n\nImago team\nThe hackathon’s technical content (problem statements, data and starter materials) is developed by the Imago team:\n\nElisabetta Pietrostefani, Deputy Director\nMunazza Usmani, Postdoctoral Researcher\nRon Mahabir, Researcher\n\nFor questions about the data, the EODH workspace or the challenges, ask us at the preparation meetings or on the day.\n\nWebsite content is licensed under CC BY 4.0; code under the MIT License (see LICENSE).",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "overview.html",
+    "href": "overview.html",
+    "title": "Overview",
+    "section": "",
+    "text": "Themes\nCities in the UK are being asked to plan for hotter summers. Local authorities need to know which neighbourhoods overheat, who lives there, and where new trees or parks would do the most good — but the evidence to answer these questions is often patchy, out of date, too coarse to show differences between neighbourhoods, or locked in specialist formats.\nEarth observation (EO) data offers a different way in. Satellites measure land surface temperature, vegetation and land cover repeatedly and consistently, across every neighbourhood at once. Turned into the right indicators and joined to the geographies councils already use, these “pixels” can inform everyday policy decisions.\nFrom Pixels to Policy is a one-day hackathon that tests this idea on real challenges in Newcastle and the wider North East Mayoral Strategic Authority. Mixed teams of policy and technical participants will work with data from Imago and the Earth Observation Data Hub (EODH) to produce outputs that a local authority could actually use.\nEach theme has a problem statement; teams choose one and confirm it at the team meeting on 30 November.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "overview.html#themes",
+    "href": "overview.html#themes",
+    "title": "Overview",
+    "section": "",
+    "text": "Theme\nExample questions\n\n\n\n\nUrban heat\nWhat sets the hottest neighbourhoods apart from the coolest?\n\n\nGreenspace and cooling\nHow strongly is vegetation linked to lower surface temperature, and where does that break down?\n\n\nUnequal exposure\nIs exposure to heat unequal across social groups, and how much of the gap is linked to greenspace?",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "overview.html#partners",
+    "href": "overview.html#partners",
+    "title": "Overview",
+    "section": "Partners",
+    "text": "Partners\nImago: Data Service for Imagery (imago.ac.uk) is a Smart Data Research UK (SDR UK) data service, funded by UKRI, that turns satellite imagery into ready-to-use data products for social science and policy research. Imago brings together research teams at the Universities of Liverpool and Newcastle and at Harvard.\nThe Earth Observation Data Hub (EODH) (eodatahub.org.uk) is a single point of access to UK Earth observation data and processing infrastructure. It is led by the National Centre for Earth Observation (NCEO) and funded by NERC with the UK Space Agency. Participants will use EODH workspaces to find, access and analyse data on the day.\nInsights North East (INE) (insightsnortheast.co.uk) is a collaborative hub for place-based policy insights, based at Newcastle University. Its North East Data Network (DataNEt), co-created with the North East Mayoral Strategic Authority, connects data experts with policymakers and decision-makers across the region.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "workshop.html",
+    "href": "workshop.html",
+    "title": "The Hackathon Day",
+    "section": "",
+    "text": "Schedule\nWednesday 9 December 2026 · 10:00–16:00 · Newcastle, UK — venue TBC\nA collaborative, fast-paced day working in small interdisciplinary teams on real-world local challenges, using Earth observation products from Imago and the EODH.\nDraft schedule — timings may shift slightly once the venue is confirmed.",
+    "crumbs": [
+      "The Hackathon Day"
+    ]
+  },
+  {
+    "objectID": "workshop.html#schedule",
+    "href": "workshop.html#schedule",
+    "title": "The Hackathon Day",
+    "section": "",
+    "text": "Time\nSession\n\n\n\n\n09:30–10:00\nArrival, registration and coffee\n\n\n10:00–10:30\nWelcome, framing and a quick tour of the data\n\n\n10:30–12:30\nSprint 1 — scope, explore and build\n\n\n12:30–13:15\nLunch\n\n\n13:15–13:30\nMid-point stand-up (2 minutes per team)\n\n\n13:30–15:00\nSprint 2 — build, refine and prepare to present\n\n\n15:00–15:45\nTeam presentations (5 min + 2 min Q&A)\n\n\n15:45–16:00\nFeedback from policy partners and close",
+    "crumbs": [
+      "The Hackathon Day"
+    ]
+  },
+  {
+    "objectID": "workshop.html#session-details",
+    "href": "workshop.html#session-details",
+    "title": "The Hackathon Day",
+    "section": "Session details",
+    "text": "Session details\n\n10:00–10:30 — Welcome and framing\nWhy Earth observation for local policy, what Imago and the EODH provide, and how the day connects to the North East’s priorities on heat and greenspace.\n\n\n\n10:30–12:30 — Sprint 1\nTeams agree a focused question within their problem statement, explore the data in their EODH workspace and start building. Mentors from Imago and the EODH circulate to help with data access and methods; policy participants help keep the work anchored to a real decision.\n\n\n13:15–13:30 — Mid-point stand-up\nEach team gives a two-minute update: what question you’re answering, what’s working and what’s blocking you.\n\n\n13:30–15:00 — Sprint 2\nFinish the analysis, make the output readable for a non-technical audience and prepare a short presentation.\n\n\n15:00–16:00 — Presentations and close\nEach team presents for 5 minutes with 2 minutes of questions. Policy partners reflect on which outputs feel most useful and how they might be taken forward.",
+    "crumbs": [
+      "The Hackathon Day"
+    ]
+  },
+  {
+    "objectID": "workshop.html#mentors-and-judges",
+    "href": "workshop.html#mentors-and-judges",
+    "title": "The Hackathon Day",
+    "section": "Mentors and judges",
+    "text": "Mentors and judges\nMentors. Each team is supported through the day by mentors from Imago and the EODH, who help with data access, methods and code, and by policy mentors who help keep the work anchored to a real decision. Mentors also join the team meeting on 30 November and the EODH session on 2 December.\nJudges. A small panel of policy and technical partners will watch the presentations and give feedback. They will look for:\n\nRelevance: does the output answer a question a council or public health team actually needs answered?\nUse of the data: is the data used sensibly, at a scale that suits the question?\nHonesty: are the limits of the data and method clear?\nClarity: could a non-technical decision-maker understand and act on it?\n\nNames of mentors and judges will be announced before the event.",
+    "crumbs": [
+      "The Hackathon Day"
+    ]
+  },
+  {
+    "objectID": "workshop.html#what-to-bring",
+    "href": "workshop.html#what-to-bring",
+    "title": "The Hackathon Day",
+    "section": "What to bring",
+    "text": "What to bring\n\nA laptop and charger (technical participants)\nYour EODH login set up at the 2 December session\nAny local knowledge, documents or policy questions relevant to your problem statement (policy participants)",
+    "crumbs": [
+      "The Hackathon Day"
+    ]
+  },
+  {
+    "objectID": "preparation.html",
+    "href": "preparation.html",
+    "title": "Preparation Meetings",
+    "section": "",
+    "text": "1. Team meeting — Monday 30 November\nFor the day to run smoothly, it is essential that all attendees take part in both preparation meetings. They let teams meet in advance, agree their problem statement and get the technical workspace working before arriving in Newcastle.\nTime: to be confirmed for each group\nFormat: online\nIn this session you will:",
+    "crumbs": [
+      "The Hackathon Day",
+      "Preparation Meetings"
+    ]
+  },
+  {
+    "objectID": "preparation.html#team-meeting-monday-30-november",
+    "href": "preparation.html#team-meeting-monday-30-november",
+    "title": "Preparation Meetings",
+    "section": "",
+    "text": "Meet the other members of your team\nReceive your team’s problem statement from our policy partners\nDiscuss what decision the problem statement supports and who would use the output\nAgree roles for the day (e.g. data lead, policy lead, presenter)\n\n\n\n\n\n\n\nNote\n\n\n\nCan’t attend?\nIf you can’t make your team’s slot, you can contribute by email instead. Let the organisers know in advance and we’ll share the problem statement and ask for your input on scope and roles.",
+    "crumbs": [
+      "The Hackathon Day",
+      "Preparation Meetings"
+    ]
+  },
+  {
+    "objectID": "preparation.html#eodh-workspace-introduction-wednesday-2-december-11001200",
+    "href": "preparation.html#eodh-workspace-introduction-wednesday-2-december-11001200",
+    "title": "Preparation Meetings",
+    "section": "2. EODH workspace introduction — Wednesday 2 December, 11:00–12:00",
+    "text": "2. EODH workspace introduction — Wednesday 2 December, 11:00–12:00\nFormat: online \nThe Earth Observation Data Hub team will introduce the technical workspace you’ll use on the day. The session covers:\n\nCreating your EODH account and signing in to the Hub platform\nJoining your team’s workspace\nFinding datasets in the resource catalogue\nRunning a starter notebook against the hackathon data\nQ&A\n\n\n\n\n\n\n\nTip\n\n\n\nBefore 2 December\nCreate your EODH account (with a GitHub, Google or Microsoft login) and send us the email address you used, following Steps 1–2 of Getting Started with EODH.\n\n\nPolicy participants are very welcome at this session too — seeing what the workspace can do will help when shaping your team’s question — but it is most important for technical participants.",
+    "crumbs": [
+      "The Hackathon Day",
+      "Preparation Meetings"
+    ]
+  },
+  {
+    "objectID": "eodh-start.html",
+    "href": "eodh-start.html",
+    "title": "Getting Started with EODH",
+    "section": "",
+    "text": "Access levels\nOn the day, all teams work in the Earth Observation Data Hub (EODH). Please complete Steps 1–2 before the EODH workspace introduction on Wednesday 2 December, so that the session can focus on data and notebooks rather than logins.\nThe EODH has three access levels:\nYou only need a user account. The organisers will set up team workspaces and add you to yours.",
+    "crumbs": [
+      "The Hackathon Day",
+      "Getting Started with EODH"
+    ]
+  },
+  {
+    "objectID": "eodh-start.html#access-levels",
+    "href": "eodh-start.html#access-levels",
+    "title": "Getting Started with EODH",
+    "section": "",
+    "text": "Access level\nWhat it allows\nDo you need it?\n\n\n\n\nOpen access\nBrowse the site and docs, search the catalogue, view and download open imagery. No sign-in.\nUseful for exploring beforehand\n\n\nUser account\nJoin and work in shared workspaces you’ve been invited to. You can’t create workspaces.\nYes — every technical participant\n\n\nUser account + billing account\nCreate and manage your own workspaces, plus commercial data, hosted notebooks, storage and workflows.\nNo — the organisers handle workspaces",
+    "crumbs": [
+      "The Hackathon Day",
+      "Getting Started with EODH"
+    ]
+  },
+  {
+    "objectID": "eodh-start.html#step-1-create-your-account",
+    "href": "eodh-start.html#step-1-create-your-account",
+    "title": "Getting Started with EODH",
+    "section": "Step 1 — Create your account",
+    "text": "Step 1 — Create your account\n\nGo to eodatahub.org.uk and click Sign in (top right).\nChoose an identity provider: GitHub, Google (Gmail) or Microsoft. You need one of these to create an account.\nSign in with that provider’s credentials.\nOn your first login, fill in the account information fields.\n\nNotes for each provider:\n\nGitHub: on first login you’ll be asked to authorise EO-DataHub.\nGoogle: on first login, review the identity information requested and select Continue.\nMicrosoft (e.g. a council or university account): signing in sends an access request email (“Request for access to eodh-prod received”) that expires after 24 hours. Your organisation’s Microsoft administrator has to approve the eodh-prod application once, after which anyone in your organisation can sign in.\n\n\n\n\n\n\n\nWarning\n\n\n\nUsing a work Microsoft account?\nCouncil and NHS IT approval can take time. If you plan to sign in with a work Microsoft account, start before 30 November, or use a personal GitHub or Gmail account instead.\n\n\nFull guide: EODH — User accounts",
+    "crumbs": [
+      "The Hackathon Day",
+      "Getting Started with EODH"
+    ]
+  },
+  {
+    "objectID": "eodh-start.html#step-2-send-us-your-account-email",
+    "href": "eodh-start.html#step-2-send-us-your-account-email",
+    "title": "Getting Started with EODH",
+    "section": "Step 2 — Send us your account email",
+    "text": "Step 2 — Send us your account email\nOnce your account exists, send the email address linked to your EODH account to the organisers so we can add you to your team’s workspace.",
+    "crumbs": [
+      "The Hackathon Day",
+      "Getting Started with EODH"
+    ]
+  },
+  {
+    "objectID": "eodh-start.html#step-3-open-a-notebook-in-your-workspace",
+    "href": "eodh-start.html#step-3-open-a-notebook-in-your-workspace",
+    "title": "Getting Started with EODH",
+    "section": "Step 3 — Open a notebook in your workspace",
+    "text": "Step 3 — Open a notebook in your workspace\nWhen you’ve been added to a workspace (we’ll walk through this on 2 December):\n\nFrom the EODH homepage, open Notebooks in the navigation bar and sign in if prompted.\nClick Start My Server.\nSelect your team’s workspace. This decides which storage is mounted in your notebook.\nSelect a profile. The EO DataHub default image is recommended, as it comes with extra packages including the pyeodh client. A plain Python image is also available. The hackathon supports Python only.\nClick Start, wait for the server, then create a notebook from the Python 3 (ipykernel) tile.\n\n\n\n\n\n\n\nNote\n\n\n\nGood habits\nStop your server when you’re done via File → Hub Control Panel; logging out doesn’t stop it. Idle servers shut down after one hour, so save your work often.\n\n\nFull guide: EODH — Notebook service",
+    "crumbs": [
+      "The Hackathon Day",
+      "Getting Started with EODH"
+    ]
+  },
+  {
+    "objectID": "eodh-start.html#step-4-explore-before-the-day-optional",
+    "href": "eodh-start.html#step-4-explore-before-the-day-optional",
+    "title": "Getting Started with EODH",
+    "section": "Step 4 — Explore before the day (optional)",
+    "text": "Step 4 — Explore before the day (optional)\n\nResource catalogue: data discovery: search and browse what’s on the Hub (no login needed).\nSetup walkthrough, then the discovery, processing and visualisation walkthroughs.\nHeat-relevant examples: Mapping land surface temperature across the UK and Landsat land surface temperature. These are good starting points for the What makes a hotspot? and Does green cool? challenges.\npyeodh, the Python client for EODH APIs.\nPrefer desktop GIS? EODH can also be reached from QGIS and ArcGIS.\n\nStuck? See the EODH FAQs and cheat sheet, or bring your question to the 2 December session.",
+    "crumbs": [
+      "The Hackathon Day",
+      "Getting Started with EODH"
+    ]
+  },
+  {
+    "objectID": "probstatement.html",
+    "href": "probstatement.html",
+    "title": "Hackathon Challenges",
+    "section": "",
+    "text": "Participation\nOver one day, your team will tackle a real local question about urban heat and greenspace using Earth observation data. Each team chooses one of the three problem statements below and confirms its choice at the team meeting on Monday 30 November. The strongest outputs will answer a question someone in a council or public health team actually needs answered, and be honest about what the data can and can’t show.\nAll teams work in their EODH workspace with the datasets listed on the Data page. Every dataset is available to every team: each problem statement suggests a core set and other options, but you are free to mix them.\nTeams are pre-assigned and deliberately mixed. Each team includes at least one policy or public sector participant and two or three technical participants, supported by mentors from Imago and the EODH (see Mentors and judges). Policy participants frame the question and judge usefulness; technical participants make the data work. Both are essential.",
+    "crumbs": [
+      "Hackathon Challenges"
+    ]
+  },
+  {
+    "objectID": "probstatement.html#study-area",
+    "href": "probstatement.html#study-area",
+    "title": "Hackathon Challenges",
+    "section": "Study area",
+    "text": "Study area\nStart with Newcastle upon Tyne. Teams who want a wider view can scale up to the North East Mayoral Strategic Authority area: Newcastle, Gateshead, North Tyneside, South Tyneside, Sunderland, County Durham and Northumberland. That lets you compare dense urban cores with suburbs, towns and rural areas. All datasets cover the full area.\n\n\n\n\nNewcastle\nNorth East MSA\n\n\n\n\nMSOAs\n34\n253\n\n\nLSOAs\n180\n1,257\n\n\n100 m pixels per daily LST image (approx.)\n~11,000\n~780,000\n\n\n\nSee the Case Study for counts by local authority.\n\n\n\n\n\n\nImportant\n\n\n\nChoosing your scale\n\nFew areas at MSOA level in Newcastle. With only 34 MSOAs, a correlation or model at MSOA level rests on 34 points, and splitting them into groups leaves very few in each. If you stay in Newcastle and want to estimate a relationship (challenges 2 and 3), work at LSOA level (180 areas), or scale up to the North East (253 MSOAs, 1,257 LSOAs).\nComparisons work well in Newcastle. Picking out the hottest and coolest few MSOAs from 34 (challenge 1) is manageable. Scaling up adds town and rural contrasts rather than statistical power.\nKeep pixels local. The NCEO 100 m data are daily files across five summers. At North East scale that is a lot of data to process in a day without parallel computing. Use the Imago MSOA and LSOA products for the North East, and the pixels for Newcastle or a smaller pilot area.",
+    "crumbs": [
+      "Hackathon Challenges"
+    ]
+  },
+  {
+    "objectID": "probstatement.html#what-makes-a-hotspot",
+    "href": "probstatement.html#what-makes-a-hotspot",
+    "title": "Hackathon Challenges",
+    "section": "1. What makes a hotspot?",
+    "text": "1. What makes a hotspot?\n\nTheme: Urban heat\nQuestion: What sets the hottest neighbourhoods apart from the coolest in surface cover and built-up density? Start in Newcastle, then test whether the same features mark hotspots across the North East.\nCore data\n\nImago Sentinel-3 heat indicators (MSOA), summer daytime, to pick out the hottest and coolest MSOAs.\nSentinel-2 summer composite (10 m), to describe them: vegetation (NDVI), built-up surfaces (NDBI) and water (NDWI).\n\nOther options\n\nImago greenspace (LSOA) for share green.\nHadUK-Grid air temperature (MSOA), to test whether hot surfaces also mean hot air.\nNight-time Sentinel-3 indicators, to check whether daytime hotspots stay hot at night.\nPopulation and deprivation table, to see who lives in the hotspots.\n\nGo further\n\nChoose a pilot area containing both hot and cool MSOAs and find hotspots within it at 100 m, using the Imago 100 m LSOA product or the NCEO 100 m pixels, instead of treating whole MSOAs as hot or cool.\nAt North East scale, compare hotspot features in city centres, towns and rural areas.\n\nBy 16:00: The hottest and coolest areas, a side-by-side comparison of their surface cover and built-up density, and three or four examples illustrated with Sentinel-2 imagery.",
+    "crumbs": [
+      "Hackathon Challenges"
+    ]
+  },
+  {
+    "objectID": "probstatement.html#does-green-cool",
+    "href": "probstatement.html#does-green-cool",
+    "title": "Hackathon Challenges",
+    "section": "2. Does green cool?",
+    "text": "2. Does green cool?\n\nTheme: Greenspace and cooling\nQuestion: How strongly is vegetation linked to lower surface temperature, and where does that link break down? Does it hold beyond Newcastle, across the wider North East?\nCore data\n\nImago Sentinel-3 heat indicators (MSOA), day and night.\nNDVI from the Sentinel-2 summer composite, averaged for each area.\nImago greenspace (LSOA) as share green, rolled up to MSOA.\n\nOther options\n\nImago Sentinel-3 heat indicators at LSOA.\nHadUK-Grid air temperature (MSOA), to see whether greener areas also have cooler air.\nPopulation and deprivation table, to describe the places where green doesn’t cool.\n\nGo further\n\nEstimate the LST–NDVI relationship at 100 m, using the NCEO 100 m pixels against NDVI resampled to 100 m, or the Imago 100 m LSOA product, and check whether it holds at both scales and both times of day.\nAt North East scale, test whether the relationship differs between urban and rural areas.\n\nBy 16:00: A plot of the LST–NDVI relationship for day and night, and a map of places that are hotter than their greenness predicts, with a short note on why for two or three of them.",
+    "crumbs": [
+      "Hackathon Challenges"
+    ]
+  },
+  {
+    "objectID": "probstatement.html#who-lives-in-the-heat",
+    "href": "probstatement.html#who-lives-in-the-heat",
+    "title": "Hackathon Challenges",
+    "section": "3. Who lives in the heat?",
+    "text": "3. Who lives in the heat?\n\nTheme: Unequal exposure\nQuestion: Is exposure to daytime and night-time heat unequal across social groups, and how much of the gap is linked to differences in greenspace? Compare Newcastle with the North East as a whole.\nCore data\n\nImago Sentinel-3 heat indicators (MSOA), day and night.\nImago greenspace (LSOA) and NDVI from Sentinel-2.\nThe population and deprivation table (LSOA), aggregated to MSOA and weighted by population.\n\nOther options\n\nHadUK-Grid air temperature (MSOA), including heat extremes, as a measure closer to what people feel. It also has cold extremes, so you can check whether the same groups are exposed to both heat and cold.\nImago Sentinel-3 heat indicators at LSOA.\n\nGo further\n\nWork at LSOA level with the Imago 100 m LSOA product, joined directly to greenspace and the LSOA table.\nUse the NCEO 100 m pixels to look at day-to-day variation during hot spells in specific neighbourhoods.\n\nBy 16:00:\n\nHeat exposure gaps for two or three groups (for example most vs least deprived areas, older residents, social renters).\nA simple model showing how each gap changes once greenspace is accounted for.\nA one-slide policy summary for Insights North East. It should note that these are area-level patterns, not measures of what individuals experience.\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nOutputs and recognition\nAll participant contributions incorporated into future published work will be acknowledged. Selected outputs will be showcased as data stories in the Book of Imagery or on the Imago blog, and may be developed further with Imago and our partners after the event. See Outputs for what each team should produce.",
+    "crumbs": [
+      "Hackathon Challenges"
+    ]
+  },
+  {
+    "objectID": "casestudy.html",
+    "href": "casestudy.html",
+    "title": "Case Study: Newcastle and the North East",
+    "section": "",
+    "text": "Why Newcastle?\nThe hackathon starts from Newcastle upon Tyne. Working on one city lets teams go deep on local detail, use the geographies the council already works with, and produce outputs that local partners can recognise and test against what they know on the ground. Teams can scale up to the North East Mayoral Strategic Authority area to compare the city with its neighbours, towns and rural areas.",
+    "crumbs": [
+      "Hackathon Challenges",
+      "Case Study: Newcastle and the North East"
+    ]
+  },
+  {
+    "objectID": "casestudy.html#why-newcastle",
+    "href": "casestudy.html#why-newcastle",
+    "title": "Case Study: Newcastle and the North East",
+    "section": "",
+    "text": "A mix of urban forms. Dense terraced and inner-city neighbourhoods, large post-war estates, suburbs, river corridor, and major green spaces such as the Town Moor and Jesmond Dene all sit within one local authority. That mix produces real variation in heat and greenspace.\nStrong local partnerships. Insights North East and the North East Data Network connect researchers directly with local authority and public health teams, so problem statements come from real policy needs.\nHeat in a cool region. The North East is among the cooler parts of England, which keeps cold exposure a live public health concern, yet hot spells still produce marked differences in heat between neighbourhoods, and a region less used to heat may be less prepared for it.\nA regional comparison. The wider North East adds Gateshead, Sunderland, the Tyneside boroughs, County Durham and Northumberland, from dense urban cores to market towns and rural areas.",
+    "crumbs": [
+      "Hackathon Challenges",
+      "Case Study: Newcastle and the North East"
+    ]
+  },
+  {
+    "objectID": "casestudy.html#geographies",
+    "href": "casestudy.html#geographies",
+    "title": "Case Study: Newcastle and the North East",
+    "section": "Geographies",
+    "text": "Geographies\nTo make outputs usable by local partners, teams are encouraged to summarise EO data to standard statistical geographies:\n\n\n\n\n\n\n\n\nGeography\nTypical population\nUse\n\n\n\n\nOutput Area (OA)\n~125 households\nFine-grained neighbourhood detail\n\n\nLower Layer Super Output Area (LSOA)\n~1,000–3,000 people\nStandard unit for deprivation and many Imago products\n\n\nMiddle Layer Super Output Area (MSOA)\n~5,000–15,000 people\nNeighbourhood summaries\n\n\nElectoral ward\nvaries\nMatches how councillors and services think about place\n\n\n\nBoundaries are available from the ONS Open Geography Portal.\n\nAreas in the study region\nNumber of 2021 MSOAs and LSOAs in each local authority of the North East Mayoral Strategic Authority area.\n\n\n\nLocal authority\nMSOAs\nLSOAs\n\n\n\n\nNewcastle upon Tyne\n34\n180\n\n\nGateshead\n27\n126\n\n\nNorth Tyneside\n30\n133\n\n\nSouth Tyneside\n23\n103\n\n\nSunderland\n36\n185\n\n\nCounty Durham\n65\n330\n\n\nNorthumberland\n38\n200\n\n\nNorth East MSA total\n253\n1,257\n\n\n\nNewcastle alone has only 34 MSOAs, which is few for estimating relationships. See Choosing your scale on the Challenges page.\n\n\n\n\n\n\nNotePixels and places\n\n\n\nSatellite data come as pixels (for example 10 m, 30 m or 1 km grids); policy works in places. A big part of every challenge is deciding how to move between the two: which pixels belong to an LSOA, how to treat water and roads, and whether a mean, a maximum or a share of pixels above a threshold best answers the question.",
+    "crumbs": [
+      "Hackathon Challenges",
+      "Case Study: Newcastle and the North East"
+    ]
+  },
+  {
+    "objectID": "datasets.html",
+    "href": "datasets.html",
+    "title": "Data",
+    "section": "",
+    "text": "1. Data Access\nThis page lists the datasets for the hackathon and where to find documentation. The challenges describe what the data are for; read both before the team meeting on 30 November.\nThe data fall into three groups: Imago products already summarised to policy geographies, pixel-level Earth observation data for teams who want to build their own indicators, and supporting layers loaded for every team as context.\nAll hackathon data will be in your team’s EODH workspace, ready to open in a Python Jupyter notebook. Set up your account by following Getting Started with EODH before the 2 December session. The EODH platform does not display uploaded datasets as maps, so plan to view them in a notebook.\nImago’s UK-wide products can also be browsed in the Imago Data Catalogue, currently a preview release.",
+    "crumbs": [
+      "Hackathon Challenges",
+      "Data"
+    ]
+  },
+  {
+    "objectID": "datasets.html#datasets",
+    "href": "datasets.html#datasets",
+    "title": "Data",
+    "section": "2. Datasets",
+    "text": "2. Datasets\n\n2.1 Imago products\nImago produces satellite-derived data products for social science and policy research, summarised to small areas so they can be joined directly to population and deprivation data.\n\nLand surface temperature heat indicators, Sentinel-3 (MSOA). Summer heat indicators for every MSOA in the UK, built from Sentinel-3 land surface temperature (~1 km pixels), 2019–2024. Summer night-time mean and median are being finalised, and daytime mean and median will be added. The underlying Sentinel-3 product is in the Imago Data Catalogue.\nLand surface temperature heat indicators, Sentinel-3 (LSOA). The same indicators at LSOA level, prepared for the hackathon. In dense urban areas many LSOAs are smaller than a single 1 km pixel, so neighbouring LSOAs can share the same value. Comparing this with the 100 m product below is a useful exercise in its own right.\nLand surface temperature heat indicators, 100 m (LSOA). An educational product built by Imago for the hackathon from the NCEO 100 m land surface temperature data (section 2.2), 2020–2024. Summer night-time mean and median, with daytime mean and median to follow. The finer source resolution captures street- and neighbourhood-level differences that the 1 km product misses.\nAir temperature indicators, HadUK-Grid (MSOA). Met Office 1 km gridded air temperature, 2015–2024, summarised into annual and seasonal indicators and heat and cold extremes. Use these to compare surface with air temperature, or to bring in cold extremes alongside heat.\nGreenspace (LSOA). A UK-wide greenspace product based on a binary green / non-green classification of satellite imagery, summarised to LSOA.\n\n\n\n\n\n\n\nTip\n\n\n\nLand surface temperature is not air temperature. Land surface temperature measures how hot the ground and roofs are; air temperature is closer to what people feel. The two are related but can differ a lot, especially by day. The hackathon gives you both.\n\n\n\n\n2.2 Pixel-level Earth observation data\nFor teams who want to build their own indicators or go below LSOA level.\n\nLand surface temperature, 100 m (NCEO). Gridded land surface temperature at 100 m from the National Centre for Earth Observation’s Surface Temperature Group at the University of Leicester. Daily day and night files (NetCDF), 2020–2024, on a latitude/longitude grid (EPSG:4326), covering the North East (bounding box −2.69, 54.45 to −1.24, 55.81). Values are in Kelvin: subtract 273.15 for °C. Reproject to British National Grid (EPSG:27700) before measuring distances or areas.\nSentinel-2 (EODH). Open 10 m multispectral imagery from the EODH catalogue, provided as a single cloud-free summer composite matched to the land surface temperature period. Use the red and near-infrared bands to compute vegetation indices such as NDVI. Newcastle imagery for summers 2019–2026 is also discoverable in the EODH catalogue if you want to go further.\n\n\n\n\n\n\n\nImportant\n\n\n\nCredit and use. Any output using the 100 m land surface temperature data, or the Imago 100 m LSOA product derived from it, must credit the NCEO Leicester Surface Temperature Group. These data are provided for use in the hackathon workspaces only and must not be shared outside the event.\n\n\nDocumentation: EODH documentation · Getting Started with EODH · EODH FAQs\n\n\n2.3 Supporting layers\nLoaded for every team as context:\n\nLSOA boundaries (2021, ONS Open Geography Portal).\nA small table of population and deprivation for each LSOA, to show who lives in the hottest, coldest and least green places.\n\n\n\n2.4 Joining the data\n\n\n\n\n\n\n\n\nDataset\nSpatial code\nJoin to\n\n\n\n\nImago LSOA products (LST, greenspace)\nLSOA21CD\n2021 LSOA boundaries, population and deprivation table\n\n\nImago MSOA products (LST, air temperature)\nMSOA21CD\n2021 MSOA boundaries, or LSOA data via an LSOA-to-MSOA lookup\n\n\nNCEO 100 m LST, Sentinel-2\nnone (gridded)\nZonal statistics over any boundary (e.g. mean temperature per LSOA)",
+    "crumbs": [
+      "Hackathon Challenges",
+      "Data"
+    ]
+  },
+  {
+    "objectID": "output.html",
+    "href": "output.html",
+    "title": "Outputs",
+    "section": "",
+    "text": "Expected Outputs\nWith only one day, aim for one clear answer to one well-framed question rather than a complete analysis. Each team produces one of the following, depending on its challenge:\n1. A hotspot comparison (What makes a hotspot?)\nThe hottest and coolest areas, a side-by-side comparison of their surface cover and built-up density, and three or four examples illustrated with Sentinel-2 imagery.\n2. A greenness–temperature analysis (Does green cool?)\nA plot of the land surface temperature–NDVI relationship for day and night, and a map of places that are hotter than their greenness predicts, with a short note on why for two or three of them.\n3. A heat inequality brief (Who lives in the heat?)\nHeat exposure gaps for two or three social groups, a simple model showing how each gap changes once greenspace is accounted for, and a one-slide policy summary for Insights North East.\nOutputs can take whatever form best communicates the findings: a static map with a short brief, a notebook, a simple dashboard or an interactive map.",
+    "crumbs": [
+      "Hackathon Challenges",
+      "Outputs"
+    ]
+  },
+  {
+    "objectID": "output.html#presentation",
+    "href": "output.html#presentation",
+    "title": "Outputs",
+    "section": "Presentation",
+    "text": "Presentation\nEach team gives a 5-minute presentation (maximum 5 slides) at the end of the day, followed by 2 minutes of questions. The judges will give feedback on relevance, use of the data, honesty about limits and clarity. A good presentation covers:\n\nThe question — what decision does this support, and for whom?\nThe data — what you used and why\nThe finding — the one thing a decision-maker should take away\nThe caveats — what the data can’t tell you\nNext steps — what would make this usable in practice\n\nTeams are encouraged to share their code and outputs in a GitHub repository.",
+    "crumbs": [
+      "Hackathon Challenges",
+      "Outputs"
+    ]
+  },
+  {
+    "objectID": "output.html#after-the-hackathon",
+    "href": "output.html#after-the-hackathon",
+    "title": "Outputs",
+    "section": "After the hackathon",
+    "text": "After the hackathon\nImago will showcase outputs from the day as data stories in the Book of Imagery or on the Imago blog. Teams whose work is featured will be credited and invited to help shape the story. To make this easy:\n\nkeep your notebook tidy and runnable from top to bottom;\nsave your key map or figure as an image;\nwrite two or three sentences on the finding and what it means for policy.\n\n\n\n\n\n\n\nNote\n\n\n\nRecognition\nAll team contributions incorporated into future published work will be acknowledged. Promising outputs may be developed further with Imago, the EODH and Insights North East after the event.",
+    "crumbs": [
+      "Hackathon Challenges",
+      "Outputs"
+    ]
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Earth Observation Data Hub\nA curated list of tutorials, courses and software for working with Earth observation and geographic data in Python. The hackathon supports Python only: the EODH workspaces run Python notebooks, and the mentors will support Python code on the day.",
+    "crumbs": [
+      "Hackathon Challenges",
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#earth-observation-data-hub",
+    "href": "resources.html#earth-observation-data-hub",
+    "title": "Resources",
+    "section": "",
+    "text": "Getting Started with EODH — our step-by-step guide for hackathon participants.\nEODH documentation — accounts, workspaces, the resource catalogue, notebooks and APIs.\nEODH FAQs and cheat sheet.",
+    "crumbs": [
+      "Hackathon Challenges",
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#imago",
+    "href": "resources.html#imago",
+    "title": "Resources",
+    "section": "Imago",
+    "text": "Imago\n\nImago Data Catalogue — search and browse Imago’s data products (preview release).\nImago: Data Service for Imagery — about the service.\nImago training materials — tutorials on working with satellite-derived data for social science.",
+    "crumbs": [
+      "Hackathon Challenges",
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#geographic-data-science",
+    "href": "resources.html#geographic-data-science",
+    "title": "Resources",
+    "section": "Geographic Data Science",
+    "text": "Geographic Data Science\n\nA course in Geographic Data Science — the ENVS363/563 module from the Geographic Data Science Lab, University of Liverpool, with Python labs covering spatial data, mapping vector and raster data, spatial weights, ESDA and clustering.\nAdvanced Geovisualisation — Python-based geovisualisation; useful for teams building interactive maps.",
+    "crumbs": [
+      "Hackathon Challenges",
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#python",
+    "href": "resources.html#python",
+    "title": "Resources",
+    "section": "Python",
+    "text": "Python\n\nMapping and Data Visualization with Python — Spatial Thoughts course covering GeoPandas, XArray, interactive maps with Folium and Leafmap, and dashboards with Streamlit. Notebooks run in Google Colab.\nrioxarray and rasterstats — reading rasters and computing zonal statistics (e.g. mean temperature per LSOA).\npystac-client — searching STAC catalogues for satellite scenes.\n\n\nHackathon Python environment\nThe workspaces will include the core packages below. Getting comfortable with a few of them before the day will help.\n\nData processing: numpy, pandas, xarray, scipy\nGeospatial analysis: rasterio, rioxarray, geopandas, shapely, pyproj, rasterstats\nEarth observation and data access: pystac-client, pyeodh, odc-stac, requests, fsspec, s3fs\nVisualisation and machine learning: matplotlib, scikit-learn, folium\nScientific data formats: netCDF4, h5netcdf\n\n\n\n\n\n\n\n\nTip\n\n\n\nKnow a good resource? Add it here.\nThis page is community-maintained. Fork the repository, add your resource to this page and open a pull request.",
+    "crumbs": [
+      "Hackathon Challenges",
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Earth Observation Data Hub (EODH). EODH user documentation. National Centre for Earth Observation.\nImago: Data Service for Imagery. imago.ac.uk · Imago Data Catalogue.\nInsights North East. North East Data Network (DataNEt).",
+    "crumbs": [
+      "References"
+    ]
+  }
+]

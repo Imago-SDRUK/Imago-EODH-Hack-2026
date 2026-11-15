@@ -1,0 +1,53 @@
+# Resources {.unnumbered}
+
+A curated list of tutorials, courses and software for working with Earth observation and geographic data in **Python**. The hackathon supports **Python only**: the EODH workspaces run Python notebooks, and the mentors will support Python code on the day.
+
+------------------------------------------------------------------------
+
+## Earth Observation Data Hub {.unnumbered}
+
+-   [**Getting Started with EODH**](eodh-start.qmd) — our step-by-step guide for hackathon participants.
+-   [**EODH documentation**](https://docs.eodatahub.org.uk/) — accounts, workspaces, the resource catalogue, notebooks and APIs.
+-   [**EODH FAQs**](https://docs.eodatahub.org.uk/Help/faqs/) and [**cheat sheet**](https://docs.eodatahub.org.uk/Help/cheat-sheet/).
+
+<!-- TODO: add any EODH starter notebooks prepared for the hackathon -->
+
+------------------------------------------------------------------------
+
+## Imago {.unnumbered}
+
+-   [**Imago Data Catalogue**](https://data.imago.ac.uk/) — search and browse Imago's data products (preview release).
+-   [**Imago: Data Service for Imagery**](https://imago.ac.uk/) — about the service.
+-   [**Imago training materials**](https://imago-sdruk.github.io/Imago_training) — tutorials on working with satellite-derived data for social science.
+
+------------------------------------------------------------------------
+
+## Geographic Data Science {.unnumbered}
+
+-   [**A course in Geographic Data Science**](https://gdsl-ul.github.io/gds/) — the ENVS363/563 module from the Geographic Data Science Lab, University of Liverpool, with **Python** labs covering spatial data, mapping vector and raster data, spatial weights, ESDA and clustering.
+-   [**Advanced Geovisualisation**](https://gdsl-ul.github.io/wma/) — **Python**-based geovisualisation; useful for teams building interactive maps.
+
+------------------------------------------------------------------------
+
+## Python {.unnumbered}
+
+-   [**Mapping and Data Visualization with Python**](https://courses.spatialthoughts.com/python-dataviz.html) — Spatial Thoughts course covering GeoPandas, XArray, interactive maps with Folium and Leafmap, and dashboards with Streamlit. Notebooks run in Google Colab.
+-   [**`rioxarray`**](https://corteva.github.io/rioxarray/) and [**`rasterstats`**](https://pythonhosted.org/rasterstats/) — reading rasters and computing zonal statistics (e.g. mean temperature per LSOA).
+-   [**`pystac-client`**](https://pystac-client.readthedocs.io/) — searching STAC catalogues for satellite scenes.
+
+### Hackathon Python environment {.unnumbered}
+
+The workspaces will include the core packages below. Getting comfortable with a few of them before the day will help.
+
+-   **Data processing:** `numpy`, `pandas`, `xarray`, `scipy`
+-   **Geospatial analysis:** `rasterio`, `rioxarray`, `geopandas`, `shapely`, `pyproj`, `rasterstats`
+-   **Earth observation and data access:** `pystac-client`, `pyeodh`, `odc-stac`, `requests`, `fsspec`, `s3fs`
+-   **Visualisation and machine learning:** `matplotlib`, `scikit-learn`, `folium`
+-   **Scientific data formats:** `netCDF4`, `h5netcdf`
+
+------------------------------------------------------------------------
+
+::: callout-tip
+**Know a good resource? Add it here.**\
+This page is community-maintained. **Fork** the [repository](https://github.com/Imago-SDRUK/Imago-EODH-Hack-2026), add your resource to this page and open a **pull request**.
+:::

@@ -1,0 +1,134 @@
+# Hackathon Challenges {.unnumbered}
+
+Over one day, your team will tackle a real local question about **urban heat and greenspace** using Earth observation data. Each team chooses **one** of the three problem statements below and confirms its choice at the [team meeting on Monday 30 November](preparation.qmd). The strongest outputs will answer a question someone in a council or public health team actually needs answered, and be honest about what the data can and can't show.
+
+All teams work in their **EODH workspace** with the datasets listed on the [Data page](datasets.qmd). Every dataset is available to every team: each problem statement suggests a core set and other options, but you are free to mix them.
+
+::: callout-note
+Given the short timeframe, using datasets beyond those provided is generally discouraged. If you have a specific source in mind, check with the organisers at the 30 November or 2 December meeting.
+:::
+
+------------------------------------------------------------------------
+
+## Participation {.unnumbered}
+
+Teams are pre-assigned and deliberately mixed. Each team includes at least **one policy or public sector participant** and **two or three technical participants**, supported by mentors from Imago and the EODH (see [Mentors and judges](workshop.qmd#mentors-and-judges)). Policy participants frame the question and judge usefulness; technical participants make the data work. Both are essential.
+
+------------------------------------------------------------------------
+
+## Study area {.unnumbered}
+
+Start with **Newcastle upon Tyne**. Teams who want a wider view can scale up to the **North East Mayoral Strategic Authority area**: Newcastle, Gateshead, North Tyneside, South Tyneside, Sunderland, County Durham and Northumberland. That lets you compare dense urban cores with suburbs, towns and rural areas. All datasets cover the full area.
+
+| | **Newcastle** | **North East MSA** |
+|------------------|------------------|------------------|
+| MSOAs | 34 | 253 |
+| LSOAs | 180 | 1,257 |
+| 100 m pixels per daily LST image (approx.) | \~11,000 | \~780,000 |
+
+See the [Case Study](casestudy.qmd) for counts by local authority.
+
+::: callout-important
+**Choosing your scale**
+
+-   **Few areas at MSOA level in Newcastle.** With only 34 MSOAs, a correlation or model at MSOA level rests on 34 points, and splitting them into groups leaves very few in each. If you stay in Newcastle and want to estimate a relationship (challenges 2 and 3), work at **LSOA** level (180 areas), or scale up to the **North East** (253 MSOAs, 1,257 LSOAs).
+-   **Comparisons work well in Newcastle.** Picking out the hottest and coolest few MSOAs from 34 (challenge 1) is manageable. Scaling up adds town and rural contrasts rather than statistical power.
+-   **Keep pixels local.** The NCEO 100 m data are daily files across five summers. At North East scale that is a lot of data to process in a day without parallel computing. Use the Imago MSOA and LSOA products for the North East, and the pixels for Newcastle or a smaller pilot area.
+:::
+
+------------------------------------------------------------------------
+
+## 1. What makes a hotspot? {.unnumbered}
+
+::: {.p2p-card}
+**Theme:** Urban heat
+
+**Question:** What sets the hottest neighbourhoods apart from the coolest in surface cover and built-up density? Start in Newcastle, then test whether the same features mark hotspots across the North East.
+
+**Core data**
+
+-   **Imago Sentinel-3 heat indicators (MSOA), summer daytime**, to pick out the hottest and coolest MSOAs.
+-   **Sentinel-2 summer composite (10 m)**, to describe them: vegetation (NDVI), built-up surfaces (NDBI) and water (NDWI).
+
+**Other options**
+
+-   **Imago greenspace (LSOA)** for share green.
+-   **HadUK-Grid air temperature (MSOA)**, to test whether hot surfaces also mean hot air.
+-   **Night-time Sentinel-3 indicators**, to check whether daytime hotspots stay hot at night.
+-   **Population and deprivation table**, to see who lives in the hotspots.
+
+**Go further**
+
+-   Choose a pilot area containing both hot and cool MSOAs and find hotspots within it at 100 m, using the **Imago 100 m LSOA product** or the **NCEO 100 m pixels**, instead of treating whole MSOAs as hot or cool.
+-   At North East scale, compare hotspot features in city centres, towns and rural areas.
+
+**By 16:00:** The hottest and coolest areas, a side-by-side comparison of their surface cover and built-up density, and three or four examples illustrated with Sentinel-2 imagery.
+:::
+
+------------------------------------------------------------------------
+
+## 2. Does green cool? {.unnumbered}
+
+::: {.p2p-card .green}
+**Theme:** Greenspace and cooling
+
+**Question:** How strongly is vegetation linked to lower surface temperature, and where does that link break down? Does it hold beyond Newcastle, across the wider North East?
+
+**Core data**
+
+-   **Imago Sentinel-3 heat indicators (MSOA), day and night.**
+-   **NDVI from the Sentinel-2 summer composite**, averaged for each area.
+-   **Imago greenspace (LSOA)** as share green, rolled up to MSOA.
+
+**Other options**
+
+-   **Imago Sentinel-3 heat indicators at LSOA.**
+-   **HadUK-Grid air temperature (MSOA)**, to see whether greener areas also have cooler air.
+-   **Population and deprivation table**, to describe the places where green doesn't cool.
+
+**Go further**
+
+-   Estimate the LST–NDVI relationship at 100 m, using the **NCEO 100 m pixels** against NDVI resampled to 100 m, or the **Imago 100 m LSOA product**, and check whether it holds at both scales and both times of day.
+-   At North East scale, test whether the relationship differs between urban and rural areas.
+
+**By 16:00:** A plot of the LST–NDVI relationship for day and night, and a map of places that are hotter than their greenness predicts, with a short note on why for two or three of them.
+:::
+
+------------------------------------------------------------------------
+
+## 3. Who lives in the heat? {.unnumbered}
+
+::: {.p2p-card .blue}
+**Theme:** Unequal exposure
+
+**Question:** Is exposure to daytime and night-time heat unequal across social groups, and how much of the gap is linked to differences in greenspace? Compare Newcastle with the North East as a whole.
+
+**Core data**
+
+-   **Imago Sentinel-3 heat indicators (MSOA), day and night.**
+-   **Imago greenspace (LSOA)** and **NDVI from Sentinel-2.**
+-   The **population and deprivation table** (LSOA), aggregated to MSOA and weighted by population.
+
+**Other options**
+
+-   **HadUK-Grid air temperature (MSOA)**, including heat extremes, as a measure closer to what people feel. It also has **cold extremes**, so you can check whether the same groups are exposed to both heat and cold.
+-   **Imago Sentinel-3 heat indicators at LSOA.**
+
+**Go further**
+
+-   Work at LSOA level with the **Imago 100 m LSOA product**, joined directly to greenspace and the LSOA table.
+-   Use the **NCEO 100 m pixels** to look at day-to-day variation during hot spells in specific neighbourhoods.
+
+**By 16:00:**
+
+-   Heat exposure gaps for two or three groups (for example most vs least deprived areas, older residents, social renters).
+-   A simple model showing how each gap changes once greenspace is accounted for.
+-   A one-slide policy summary for Insights North East. It should note that these are area-level patterns, not measures of what individuals experience.
+:::
+
+------------------------------------------------------------------------
+
+::: callout-note
+**Outputs and recognition**\
+All participant contributions incorporated into future published work will be acknowledged. Selected outputs will be showcased as data stories in the **Book of Imagery** or on the Imago blog, and may be developed further with Imago and our partners after the event. See [Outputs](output.qmd) for what each team should produce.
+:::

@@ -1,0 +1,90 @@
+# Welcome {.unnumbered}
+
+This website hosts the materials for **From Pixels to Policy**, a one-day, hands-on hackathon where you'll brainstorm and code your way through some of the most pressing **heat and greenspace challenges** facing a UK city region.
+
+The hackathon is organised by [**Imago: Data Service for Imagery**](https://imago.ac.uk/) in collaboration with the [**Earth Observation Data Hub (EODH)**](https://eodatahub.org.uk/) and the **North East Data Network (DataNEt)** at [**Insights North East (INE)**](https://insightsnortheast.co.uk/). It brings together local authority professionals, policy experts and data/technical practitioners to explore how satellite imagery and Earth observation (EO) data can inform local responses to **urban heat**, **greenspace** and **unequal exposure** in **Newcastle and the wider North East**.
+
+::: p2p-facts
+::: p2p-fact
+[Date]{.p2p-fact-label}\
+[Wed 9 December 2026]{.p2p-fact-value}
+:::
+
+::: p2p-fact
+[Time]{.p2p-fact-label}\
+[10:00 – 16:00]{.p2p-fact-value}
+:::
+
+::: p2p-fact
+[Location]{.p2p-fact-label}\
+[Newcastle, UK — venue TBC]{.p2p-fact-value}
+:::
+
+::: p2p-fact
+[Format]{.p2p-fact-label}\
+[Small interdisciplinary teams]{.p2p-fact-value}
+:::
+:::
+
+------------------------------------------------------------------------
+
+## Who is this for? {.unnumbered}
+
+**Policy & public sector participants.** Local authority officers, policy makers and public health practitioners interested in new data sources, or in fresh ways of working with environmental and spatial data. You don't need to code — your knowledge of how decisions actually get made is what turns a map into a policy.
+
+**Technical participants.** Data scientists, programmers and GIS/geographic data specialists who want to collaborate on practical, hands-on data challenges using Earth observation products from Imago and the EODH.
+
+Teams are deliberately mixed so that every group combines policy and operational knowledge with analytical capability.
+
+------------------------------------------------------------------------
+
+## Event at a Glance {.unnumbered}
+
+Attendance at **both preparation meetings** is essential for the day to run smoothly. Click any row for details.
+
+| When | What | Who |
+|------------------------|------------------------|------------------------|
+| [**Mon 30 November** · 11:00-13:00](preparation.qmd) | Team meeting: meet your team and chose your problem statement | All participants (email input possible if you can't attend) |
+| [**Wed 2 December** · 11:00–12:00](eodh-start.qmd) | EODH pre-meeting: introducing the workspace and starter scripts | All participants |
+| [**Wed 9 December** · 10:00–16:00](workshop.qmd) | **Hackathon day** in Newcastle | All participants |
+| **Thu 10 December** | Imago Annual Summit, Newcastle | Optional — details to follow |
+
+------------------------------------------------------------------------
+
+## Register {.unnumbered}
+
+Registration is through [**Eventbrite**](https://www.eventbrite.com/e/from-pixels-to-policy-an-earth-observation-hackathon-tickets-2003542936858). Places are limited so that teams stay small and balanced.
+
+To find out more, contact **Brigid Bell** at [brigid.bell\@liverpool.ac.uk](mailto:brigid.bell@liverpool.ac.uk).
+
+------------------------------------------------------------------------
+
+## Partners {.unnumbered}
+
+| Partner | Role |
+|------------------------------------|------------------------------------|
+| [**Imago: Data Service for Imagery**](https://imago.ac.uk/) | Organiser; satellite-derived data products ([Data Catalogue](https://data.imago.ac.uk/)) |
+| [**Earth Observation Data Hub (EODH)**](https://eodatahub.org.uk/) | Technical workspace and access to UK Earth observation data |
+| [**Insights North East (INE)**](https://insightsnortheast.co.uk/) · North East Data Network | Policy partnerships and the North East data–policy community |
+
+<!-- TODO: add EODH and INE logos to img/ and a logo strip here -->
+
+------------------------------------------------------------------------
+
+## Contact {.unnumbered}
+
+> **Brigid Bell**, Imago Partnerships and Impact Officer — brigid.bell \[at\] liverpool.ac.uk
+
+### Imago team {.unnumbered}
+
+The hackathon's technical content (problem statements, data and starter materials) is developed by the Imago team:
+
+-   **Elisabetta Pietrostefani**, Deputy Director
+-   **Munazza Usmani**, Postdoctoral Researcher
+-   **Ron Mahabir**, Researcher
+
+For questions about the data, the EODH workspace or the challenges, ask us at the [preparation meetings](preparation.qmd) or on the day.
+
+<!-- TODO: add Behzad, EODH and INE contacts -->
+
+Website content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); code under the MIT License (see [LICENSE](https://github.com/Imago-SDRUK/Imago-EODH-Hack-2026/blob/main/LICENSE)).

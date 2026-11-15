@@ -1,0 +1,9 @@
+# References {.unnumbered}
+
+Earth Observation Data Hub (EODH). [EODH user documentation](https://docs.eodatahub.org.uk/). National Centre for Earth Observation.
+
+Imago: Data Service for Imagery. [imago.ac.uk](https://imago.ac.uk/) · [Imago Data Catalogue](https://data.imago.ac.uk/).
+
+Insights North East. [North East Data Network (DataNEt)](https://insightsnortheast.co.uk/).
+
+<!-- TODO: add key papers on urban heat, greenspace cooling and heat inequality from EO -->

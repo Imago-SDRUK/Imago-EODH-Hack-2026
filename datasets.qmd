@@ -17,7 +17,8 @@ The data fall into three groups: **Imago products** already summarised to policy
 | Air temperature indicators, HadUK-Grid | Imago, from Met Office | MSOA | 1 km | 2015–2024 | Ready |
 | Greenspace | Imago | LSOA | — | — | Ready |
 | Land surface temperature, 100 m | NCEO (University of Leicester) | Pixel | 100 m | 2020–2024, daily day/night | Being transferred |
-| Sentinel-2 summer composite | EODH | Pixel | 10 m | One summer, matched to the LST period | Available on EODH |
+| Sentinel-2 ARD Imagery | Defra/JNCC via EODH | Pixel | 10 m | One summer, matched to the LST period | ARD available; summer composite requires preparation |
+| Landsat-derived LST (EOCIS CHUK) | EOCIS / CEDA via EODH | Pixel | 100 m | 2018-2022, daytime | Available on EODH; spatial coverage gaps |
 | LSOA boundaries; population and deprivation | ONS / MHCLG | LSOA | — | 2021 boundaries | Pre-loaded (context) |
 
 ## 1. Data Access {.unnumbered}

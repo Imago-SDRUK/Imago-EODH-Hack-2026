@@ -1,0 +1,39 @@
+variable,description,in_lsoa_file,in_msoa_file
+lsoa21cd,2021 LSOA code,True,False
+lsoa21nm,2021 LSOA name,True,False
+msoa21cd,2021 MSOA code,True,True
+msoa21nm,2021 MSOA name,True,True
+lad_code,Local authority district code,True,True
+lad_name,Local authority district name,True,True
+imd_score,IMD 2025 score (higher = more deprived),True,False
+imd_rank,"IMD 2025 rank in England, 1 = most deprived of 33,755 LSOAs",True,False
+imd_decile,"IMD 2025 decile in England, 1 = most deprived 10%",True,False
+income_score,IoD 2025 Income domain score (share of people income deprived),True,False
+income_decile,"IoD 2025 Income domain decile, 1 = most deprived",True,False
+health_score,IoD 2025 Health Deprivation and Disability domain score,True,False
+health_decile,"IoD 2025 Health Deprivation and Disability decile, 1 = most deprived",True,False
+living_env_score,IoD 2025 Living Environment domain score,True,False
+living_env_decile,"IoD 2025 Living Environment decile, 1 = most deprived",True,False
+idaopi_score,IoD 2025 Income Deprivation Affecting Older People score,True,False
+idaopi_decile,"IoD 2025 Income Deprivation Affecting Older People decile, 1 = most deprived",True,False
+pop_total,"Usual residents, Census 2021 (TS001)",True,True
+pop_age_0_4,"Residents aged 0-4, Census 2021 (TS007A)",True,True
+pop_age_65plus,"Residents aged 65 and over, Census 2021 (TS007A)",True,True
+pop_age_75plus,"Residents aged 75 and over, Census 2021 (TS007A)",True,True
+hh_total,"Households, Census 2021 (TS054)",True,True
+hh_owned,"Owner-occupied households (outright, mortgage or shared ownership)",True,True
+hh_social_rented,Social rented households,True,True
+hh_private_rented,Private rented households (incl. rent free),True,True
+pct_age_0_4,% of residents aged 0-4,True,True
+pct_age_65plus,% of residents aged 65 and over,True,True
+pct_age_75plus,% of residents aged 75 and over,True,True
+pct_hh_social_rented,% of households in social rented housing,True,True
+pct_hh_private_rented,% of households in private rented housing,True,True
+n_lsoas,Number of LSOAs in the MSOA,False,True
+imd_score_popw,Population-weighted mean IMD 2025 score of the MSOA's LSOAs,False,True
+income_score_popw,Population-weighted mean Income domain score,False,True
+health_score_popw,Population-weighted mean Health domain score,False,True
+living_env_score_popw,Population-weighted mean Living Environment domain score,False,True
+idaopi_score_popw,Population-weighted mean IDAOPI score,False,True
+pct_pop_imd_most_deprived_20,% of residents in LSOAs among England's most deprived 20% (IMD deciles 1-2),False,True
+imd_score_popw_rank_ne,"Rank of imd_score_popw among North East MSOAs, 1 = most deprived",False,True

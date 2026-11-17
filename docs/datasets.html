@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Data – From Pixels to Policy: Heat in the North East</title>
+<title>Data – From Pixels to Policy: An Earth Observation Hackathon</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -101,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
-      <a href="./">From Pixels to Policy: Heat in the North East</a> 
+      <a href="./">From Pixels to Policy: An Earth Observation Hackathon</a> 
         <div class="sidebar-tools-main">
     <a href="https://github.com/Imago-SDRUK/Imago-EODH-Hack-2026" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
   <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
@@ -408,9 +408,15 @@ Important
 <h3 class="unnumbered anchored" data-anchor-id="supporting-layers">2.3 Supporting layers</h3>
 <p>Loaded for every team as context:</p>
 <ul>
-<li><strong>LSOA boundaries</strong> (2021, <a href="https://geoportal.statistics.gov.uk/">ONS Open Geography Portal</a>).</li>
-<li><strong>A small table of population and deprivation</strong> for each LSOA, to show <em>who</em> lives in the hottest, coldest and least green places.</li>
+<li><strong>LSOA and MSOA boundaries</strong> (2021), from the Imago Data Catalogue: <a href="https://data.imago.ac.uk/datasets/lsoa-boundaries-for-the-united-kingdom-2021">LSOA boundaries for the United Kingdom (2021)</a>. A North East-only copy, <code>ne_lsoa_2021_boundaries.gpkg</code>, is in the repository’s <code>data/</code> folder.</li>
+<li><strong>Population and deprivation tables</strong> for the North East, to show <em>who</em> lives in the hottest, coldest and least green places:
+<ul>
+<li><code>ne_lsoa_population_imd.csv</code> (1,257 LSOAs): Census 2021 population, residents aged 0–4, 65+ and 75+, household tenure (owned, social rented, private rented), and the Index of Multiple Deprivation 2025 score, rank and decile, with the Income, Health, Living Environment and older-people income deprivation domains.</li>
+<li><code>ne_msoa_population_imd.csv</code> (253 MSOAs): the same aggregated to MSOA, with population-weighted deprivation scores and the share of residents in England’s most deprived 20% of LSOAs.</li>
+<li><code>ne_population_imd_variables.csv</code>: a description of every column. Full definitions are in <a href="https://github.com/Imago-SDRUK/Imago-EODH-Hack-2026/blob/main/data/VARIABLES.md"><code>data/VARIABLES.md</code></a>.</li>
+</ul></li>
 </ul>
+<p>These tables are in the <a href="https://github.com/Imago-SDRUK/Imago-EODH-Hack-2026/tree/main/data"><code>data/</code></a> folder of the repository and will be in your workspace. The Python notebook that builds them, with step-by-step notes, is in <a href="https://github.com/Imago-SDRUK/Imago-EODH-Hack-2026/tree/main/scripts"><code>scripts/</code></a> if you want to see how they were made. Its last two sections have starter plots and worked examples of merging these tables with the Imago products.</p>
 </section>
 <section id="joining-the-data" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="joining-the-data">2.4 Joining the data</h3>
@@ -431,12 +437,12 @@ Important
 <tr class="odd">
 <td>Imago LSOA products (LST, greenspace)</td>
 <td><code>LSOA21CD</code></td>
-<td>2021 LSOA boundaries, population and deprivation table</td>
+<td>2021 LSOA boundaries; <code>ne_lsoa_population_imd.csv</code></td>
 </tr>
 <tr class="even">
 <td>Imago MSOA products (LST, air temperature)</td>
 <td><code>MSOA21CD</code></td>
-<td>2021 MSOA boundaries, or LSOA data via an LSOA-to-MSOA lookup</td>
+<td>2021 MSOA boundaries; <code>ne_msoa_population_imd.csv</code></td>
 </tr>
 <tr class="odd">
 <td>NCEO 100 m LST, Sentinel-2</td>

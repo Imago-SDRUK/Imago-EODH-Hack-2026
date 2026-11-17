@@ -5,7 +5,7 @@ project:
     - "*.qmd"
 
 book:
-  title: "From Pixels to Policy: Heat in the North East"
+  title: "From Pixels to Policy: An Earth Observation Hackathon"
   author: "Imago, with EODH and Insights North East"
   date: today
   favicon: assets/Imago-logo.png

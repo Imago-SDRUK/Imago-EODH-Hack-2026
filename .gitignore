@@ -219,3 +219,7 @@ __marimo__/
 /.quarto/
 **/*.quarto_ipynb
 .positai
+
+# Hackathon data: cached raw downloads are not committed
+data/raw/
+data/uk_datazones_2021.gpkg

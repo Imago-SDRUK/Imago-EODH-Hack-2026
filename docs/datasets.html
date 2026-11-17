@@ -258,12 +258,12 @@ These are the datasets for the day. Some Imago indicators are still being produc
 <p>The data fall into three groups: <strong>Imago products</strong> already summarised to policy geographies, <strong>pixel-level Earth observation data</strong> for teams who want to build their own indicators, and <strong>supporting layers</strong> loaded for every team as context.</p>
 <table class="caption-top table">
 <colgroup>
-<col style="width: 16%">
-<col style="width: 16%">
-<col style="width: 16%">
-<col style="width: 16%">
-<col style="width: 16%">
-<col style="width: 16%">
+<col style="width: 32%">
+<col style="width: 10%">
+<col style="width: 5%">
+<col style="width: 10%">
+<col style="width: 15%">
+<col style="width: 23%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -277,68 +277,77 @@ These are the datasets for the day. Some Imago indicators are still being produc
 </thead>
 <tbody>
 <tr class="odd">
-<td>Land surface temperature (LST) heat indicators, Sentinel-3</td>
+<td>Land surface temperature (LST) heat indicators, day &amp; night, Sentinel-3</td>
 <td>Imago</td>
 <td>MSOA</td>
 <td>~1 km</td>
-<td>Summers 2019–2024</td>
+<td>Seasonal (only Summers) 2019–2024</td>
 <td><em>In production</em></td>
 </tr>
 <tr class="even">
-<td>LST heat indicators, Sentinel-3</td>
+<td>Land surface temperature (LST) heat indicators, day &amp; night, NCEO</td>
 <td>Imago</td>
 <td>LSOA</td>
-<td>~1 km</td>
-<td>Summers 2019–2024</td>
+<td>~100 m</td>
+<td>Annual/Seasonal, 2020–2024</td>
 <td><em>In production</em> (hackathon only)</td>
 </tr>
 <tr class="odd">
-<td>LST heat indicators, 100 m</td>
-<td>Imago, from NCEO 100 m LST</td>
-<td>LSOA</td>
-<td>100 m</td>
-<td>2020–2024</td>
-<td><em>In production</em> (hackathon only)</td>
-</tr>
-<tr class="even">
-<td>Air temperature indicators, HadUK-Grid</td>
-<td>Imago, from Met Office</td>
+<td>Air temperature indicators, HadUK-Grid, Met Office</td>
+<td>Imago</td>
 <td>MSOA</td>
 <td>1 km</td>
 <td>2015–2024</td>
 <td>Ready</td>
 </tr>
-<tr class="odd">
-<td>Greenspace</td>
+<tr class="even">
+<td>Greenspace, Sentinel-2</td>
 <td>Imago</td>
 <td>LSOA</td>
-<td>—</td>
-<td>—</td>
+<td>10m</td>
+<td>2024</td>
 <td>Ready</td>
 </tr>
-<tr class="even">
-<td>Land surface temperature, 100 m</td>
-<td>NCEO (University of Leicester)</td>
-<td>Pixel</td>
-<td>100 m</td>
-<td>2020–2024, daily day/night</td>
-<td>Being transferred</td>
-</tr>
 <tr class="odd">
-<td>Sentinel-2 summer composite</td>
-<td>EODH</td>
+<td>Sentinel-2 ARD Imagery</td>
+<td>Defra/JNCC via EODH</td>
 <td>Pixel</td>
 <td>10 m</td>
-<td>One summer, matched to the LST period</td>
+<td><p>2015-2025</p>
+<p><em>Munazza to check</em></p></td>
 <td>Available on EODH</td>
 </tr>
 <tr class="even">
-<td>LSOA boundaries; population and deprivation</td>
-<td>ONS / MHCLG</td>
-<td>LSOA</td>
+<td>Landsat-derived LST (EOCIS CHUK)</td>
+<td>EOCIS / CEDA via EODH</td>
+<td>Pixel</td>
+<td>100 m</td>
+<td>2018-2022, daytime</td>
+<td>Available on EODH; spatial coverage gaps</td>
+</tr>
+<tr class="odd">
+<td>LSOA and MSOA boundaries (2021)</td>
+<td>Imago Data Catalogue</td>
+<td>LSOA, MSOA</td>
 <td>—</td>
 <td>2021 boundaries</td>
 <td>Pre-loaded (context)</td>
+</tr>
+<tr class="even">
+<td>Population, Census 2021</td>
+<td>ONS</td>
+<td>LSOA</td>
+<td>—</td>
+<td>2021</td>
+<td>Pre-loaded (context); LSOA &amp; MSOA aggregates ready</td>
+</tr>
+<tr class="odd">
+<td>Index of Multiple Deprivation (IoD 2025)</td>
+<td>MHCLG</td>
+<td>LSOA</td>
+<td>—</td>
+<td>2025</td>
+<td>Pre-loaded (context); LSOA &amp; MSOA aggregates ready</td>
 </tr>
 </tbody>
 </table>
@@ -409,8 +418,8 @@ Important
 <table class="caption-top table">
 <colgroup>
 <col style="width: 33%">
-<col style="width: 33%">
-<col style="width: 33%">
+<col style="width: 12%">
+<col style="width: 52%">
 </colgroup>
 <thead>
 <tr class="header">

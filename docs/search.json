@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "From Pixels to Policy",
+    "title": "From Pixels to Policy: Heat in the North East",
     "section": "",
-    "text": "Welcome\nThis website hosts the materials for From Pixels to Policy, a one-day, hands-on hackathon where you’ll brainstorm and code your way through some of the most pressing heat and greenspace challenges facing a UK city region.\nThe hackathon is organised by Imago: Data Service for Imagery in collaboration with the Earth Observation Data Hub (EODH) and the North East Data Network (DataNEt) at Insights North East (INE). It brings together local authority professionals, policy experts and data/technical practitioners to explore how satellite imagery and Earth observation (EO) data can inform local responses to urban heat, greenspace and unequal exposure in Newcastle and the wider North East.",
+    "text": "Welcome\nThis website hosts the materials for From Pixels to Policy: Heat in the North East, a one-day, hands-on hackathon where you’ll brainstorm and code your way through some of the most pressing heat and greenspace challenges facing a UK city region.\nThe hackathon is organised by Imago: Data Service for Imagery in collaboration with the Earth Observation Data Hub (EODH) and the North East Data Network (DataNEt) at Insights North East (INE). It brings together local authority professionals, policy experts and data/technical practitioners to explore how satellite imagery and Earth observation (EO) data can inform local responses to urban heat, greenspace and unequal exposure in Newcastle and the wider North East.",
     "crumbs": [
       "Welcome"
     ]
@@ -12,7 +12,7 @@
   {
     "objectID": "index.html#who-is-this-for",
     "href": "index.html#who-is-this-for",
-    "title": "From Pixels to Policy",
+    "title": "From Pixels to Policy: Heat in the North East",
     "section": "Who is this for?",
     "text": "Who is this for?\nPolicy & public sector participants. Local authority officers, policy makers and public health practitioners interested in new data sources, or in fresh ways of working with environmental and spatial data. You don’t need to code — your knowledge of how decisions actually get made is what turns a map into a policy.\nTechnical participants. Data scientists, programmers and GIS/geographic data specialists who want to collaborate on practical, hands-on data challenges using Earth observation products from Imago and the EODH.\nTeams are deliberately mixed so that every group combines policy and operational knowledge with analytical capability.",
     "crumbs": [
@@ -22,7 +22,7 @@
   {
     "objectID": "index.html#event-at-a-glance",
     "href": "index.html#event-at-a-glance",
-    "title": "From Pixels to Policy",
+    "title": "From Pixels to Policy: Heat in the North East",
     "section": "Event at a Glance",
     "text": "Event at a Glance\nAttendance at both preparation meetings is essential for the day to run smoothly. Click any row for details.\n\n\n\nWhen\nWhat\nWho\n\n\n\n\nMon 30 November · 11:00-13:00\nTeam meeting: meet your team and chose your problem statement\nAll participants (email input possible if you can’t attend)\n\n\nWed 2 December · 11:00–12:00\nEODH pre-meeting: introducing the workspace and starter scripts\nAll participants\n\n\nWed 9 December · 10:00–16:00\nHackathon day in Newcastle\nAll participants\n\n\nThu 10 December\nImago Annual Summit, Newcastle\nOptional — details to follow",
     "crumbs": [
@@ -32,7 +32,7 @@
   {
     "objectID": "index.html#register",
     "href": "index.html#register",
-    "title": "From Pixels to Policy",
+    "title": "From Pixels to Policy: Heat in the North East",
     "section": "Register",
     "text": "Register\nRegistration is through Eventbrite. Places are limited so that teams stay small and balanced.\nTo find out more, contact Brigid Bell at brigid.bell@liverpool.ac.uk.",
     "crumbs": [
@@ -42,7 +42,7 @@
   {
     "objectID": "index.html#partners",
     "href": "index.html#partners",
-    "title": "From Pixels to Policy",
+    "title": "From Pixels to Policy: Heat in the North East",
     "section": "Partners",
     "text": "Partners\n\n\n\nPartner\nRole\n\n\n\n\nImago: Data Service for Imagery\nOrganiser; satellite-derived data products (Data Catalogue)\n\n\nEarth Observation Data Hub (EODH)\nTechnical workspace and access to UK Earth observation data\n\n\nInsights North East (INE) · North East Data Network\nPolicy partnerships and the North East data–policy community",
     "crumbs": [
@@ -52,7 +52,7 @@
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
-    "title": "From Pixels to Policy",
+    "title": "From Pixels to Policy: Heat in the North East",
     "section": "Contact",
     "text": "Contact\n\nBrigid Bell, Imago Partnerships and Impact Officer — brigid.bell [at] liverpool.ac.uk\n\n\nImago team\nThe hackathon’s technical content (problem statements, data and starter materials) is developed by the Imago team:\n\nElisabetta Pietrostefani, Deputy Director\nMunazza Usmani, Postdoctoral Researcher\nRon Mahabir, Researcher\n\nFor questions about the data, the EODH workspace or the challenges, ask us at the preparation meetings or on the day.\n\nWebsite content is licensed under CC BY 4.0; code under the MIT License (see LICENSE).",
     "crumbs": [

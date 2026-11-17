@@ -1,9 +1,9 @@
 
 <img src="assets/Imago-logo.png" alt="Imago Logo" width="300"/>
 
-# From Pixels to Policy: Heat in the North East
+# From Pixels to Policy: An Earth Observation Hackathon
 
-Website and materials for **From Pixels to Policy: Heat in the North East**, a one-day hackathon on urban heat and greenspace in Newcastle and the North East (**Wednesday 9 December 2026, 10:00–16:00**).
+Website and materials for **From Pixels to Policy: An Earth Observation Hackathon**, a one-day event on urban heat and greenspace in Newcastle and the North East (**Wednesday 9 December 2026, 10:00–16:00**).
 
 Organised by [Imago: Data Service for Imagery](https://imago.ac.uk/) in collaboration with the [Earth Observation Data Hub (EODH)](https://eodatahub.org.uk/) and the North East Data Network at [Insights North East (INE)](https://insightsnortheast.co.uk/).
 

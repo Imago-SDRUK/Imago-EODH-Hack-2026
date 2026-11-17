@@ -72,17 +72,22 @@ For teams who want to build their own indicators or go below LSOA level.
 
 Loaded for every team as context:
 
-- **LSOA boundaries** (2021, [ONS Open Geography Portal](https://geoportal.statistics.gov.uk/)).
-- **A small table of population and deprivation** for each LSOA, to show *who* lives in the hottest, coldest and least green places.
+- **LSOA and MSOA boundaries** (2021), from the Imago Data Catalogue: [LSOA boundaries for the United Kingdom (2021)](https://data.imago.ac.uk/datasets/lsoa-boundaries-for-the-united-kingdom-2021). A North East-only copy, `ne_lsoa_2021_boundaries.gpkg`, is in the repository's `data/` folder.
+- **Population and deprivation tables** for the North East, to show *who* lives in the hottest, coldest and least green places:
+  - `ne_lsoa_population_imd.csv` (1,257 LSOAs): Census 2021 population, residents aged 0–4, 65+ and 75+, household tenure (owned, social rented, private rented), and the Index of Multiple Deprivation 2025 score, rank and decile, with the Income, Health, Living Environment and older-people income deprivation domains.
+  - `ne_msoa_population_imd.csv` (253 MSOAs): the same aggregated to MSOA, with population-weighted deprivation scores and the share of residents in England's most deprived 20% of LSOAs.
+  - `ne_population_imd_variables.csv`: a description of every column. Full definitions are in [`data/VARIABLES.md`](https://github.com/Imago-SDRUK/Imago-EODH-Hack-2026/blob/main/data/VARIABLES.md).
+
+These tables are in the [`data/`](https://github.com/Imago-SDRUK/Imago-EODH-Hack-2026/tree/main/data) folder of the repository and will be in your workspace. The Python notebook that builds them, with step-by-step notes, is in [`scripts/`](https://github.com/Imago-SDRUK/Imago-EODH-Hack-2026/tree/main/scripts) if you want to see how they were made. Its last two sections have starter plots and worked examples of merging these tables with the Imago products.
 
 ### 2.4 Joining the data {.unnumbered}
 
 +--------------------------------------------+----------------+---------------------------------------------------------------------+
 | Dataset                                    | Spatial code   | Join to                                                             |
 +============================================+================+=====================================================================+
-| Imago LSOA products (LST, greenspace)      | `LSOA21CD`     | 2021 LSOA boundaries, population and deprivation table              |
+| Imago LSOA products (LST, greenspace)      | `LSOA21CD`     | 2021 LSOA boundaries; `ne_lsoa_population_imd.csv`                  |
 +--------------------------------------------+----------------+---------------------------------------------------------------------+
-| Imago MSOA products (LST, air temperature) | `MSOA21CD`     | 2021 MSOA boundaries, or LSOA data via an LSOA-to-MSOA lookup       |
+| Imago MSOA products (LST, air temperature) | `MSOA21CD`     | 2021 MSOA boundaries; `ne_msoa_population_imd.csv`                  |
 +--------------------------------------------+----------------+---------------------------------------------------------------------+
 | NCEO 100 m LST, Sentinel-2                 | none (gridded) | Zonal statistics over any boundary (e.g. mean temperature per LSOA) |
 +--------------------------------------------+----------------+---------------------------------------------------------------------+

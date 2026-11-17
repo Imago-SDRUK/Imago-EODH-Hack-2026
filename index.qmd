@@ -1,6 +1,6 @@
 # Welcome {.unnumbered}
 
-This website hosts the materials for **From Pixels to Policy: Heat in the North East**, a one-day, hands-on hackathon where you'll brainstorm and code your way through some of the most pressing **heat and greenspace challenges** facing a UK city region.
+This website hosts the materials for **From Pixels to Policy: An Earth Observation Hackathon**, a one-day, hands-on event where you'll brainstorm and code your way through some of the most pressing **heat and greenspace challenges** facing a UK city region.
 
 The hackathon is organised by [**Imago: Data Service for Imagery**](https://imago.ac.uk/) in collaboration with the [**Earth Observation Data Hub (EODH)**](https://eodatahub.org.uk/) and the **North East Data Network (DataNEt)** at [**Insights North East (INE)**](https://insightsnortheast.co.uk/). It brings together local authority professionals, policy experts and data/technical practitioners to explore how satellite imagery and Earth observation (EO) data can inform local responses to **urban heat**, **greenspace** and **unequal exposure** in **Newcastle and the wider North East**.
 

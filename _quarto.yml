@@ -3,6 +3,9 @@ project:
   output-dir: docs
   render:
     - "*.qmd"
+  resources:
+    - assets/video/hackathon-walkthrough.mp4
+    - assets/video/hackathon-walkthrough-poster.jpg
 
 book:
   title: "From Pixels to Policy: An Earth Observation Hackathon"

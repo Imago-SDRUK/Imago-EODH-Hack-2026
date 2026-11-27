@@ -17,7 +17,7 @@ The hackathon is organised by [**Imago: Data Service for Imagery**](https://imag
 
 ::: p2p-fact
 [Location]{.p2p-fact-label}\
-[Newcastle, UK — venue TBC]{.p2p-fact-value}
+[Faraday Room, The Catalyst, Newcastle upon Tyne]{.p2p-fact-value}
 :::
 
 ::: p2p-fact
@@ -66,6 +66,7 @@ To find out more, contact **Brigid Bell** at [brigid.bell\@liverpool.ac.uk](mail
 | [**Imago: Data Service for Imagery**](https://imago.ac.uk/) | Organiser; satellite-derived data products ([Data Catalogue](https://data.imago.ac.uk/)) |
 | [**Earth Observation Data Hub (EODH)**](https://eodatahub.org.uk/) | Technical workspace and access to UK Earth observation data |
 | [**Insights North East (INE)**](https://insightsnortheast.co.uk/) · North East Data Network | Policy partnerships and the North East data–policy community |
+| [**National Centre for Earth Observation (NCEO)**](https://www.nceo.ac.uk/) · Surface Temperature Group, University of Leicester | 100 m land surface temperature data. Science Leader for LST CCI+ and Sentinel-3 LST Lead |
 
 <!-- TODO: add EODH and INE logos to img/ and a logo strip here -->
 

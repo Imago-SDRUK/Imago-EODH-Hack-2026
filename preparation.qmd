@@ -4,15 +4,21 @@ For the day to run smoothly, **it is essential that all attendees take part in b
 
 | Meeting | Date and time | Purpose |
 |------------------|------------------|-------------------------------------|
-| **1. Team meeting** | **Monday 30 November** · time TBC per team | Meet your team and receive your problem statement |
+| **1. Team meeting** | **Monday 30 November** · 30-minute slot per team, 11:00–13:00 | Meet your team and receive your problem statement |
 | **2. EODH workspace introduction** | **Wednesday 2 December** · 11:00–12:00 | Introduction to the EODH technical workspace |
 
 ------------------------------------------------------------------------
 
 ## 1. Team meeting — Monday 30 November {.unnumbered}
 
-**Time:** to be confirmed for each group\
-**Format:** online <!-- TODO: confirm platform and link -->
+**Format:** online, on Microsoft Teams. Each team has its own meeting link, sent by **Brigid Bell** ([brigid.bell\@liverpool.ac.uk](mailto:brigid.bell@liverpool.ac.uk)). If you haven't received yours, or need to change slot, please get in touch with Brigid.
+
+| Time | Team | Mentor |
+|------|------|--------|
+| 11:00–11:30 | Surface Tension | Munazza Usmani |
+| 11:30–12:00 | Green Buffer | Ron Mahabir |
+| 12:00–12:30 | Unequal Degrees | Elisabetta Pietrostefani |
+| 12:30–13:00 | Degrees Apart | Vitaly Kryukov |
 
 In this session you will:
 
@@ -23,22 +29,27 @@ In this session you will:
 
 ::: callout-note
 **Can't attend?**\
-If you can't make your team's slot, you can contribute **by email** instead. Let the organisers know in advance and we'll share the problem statement and ask for your input on scope and roles.
+If you can't make your team's slot, you can contribute **by email** instead. Let Brigid know in advance and we'll share the problem statement and ask for your input on scope and roles.
 :::
 
 ------------------------------------------------------------------------
 
 ## 2. EODH workspace introduction — Wednesday 2 December, 11:00–12:00 {.unnumbered}
 
-**Format:** online <!-- TODO: confirm platform and link -->
+:::: {.callout-important appearance="simple"}
+**Online, on Microsoft Teams · Wednesday 2 December, 11:00–12:00**
 
-The Earth Observation Data Hub team will introduce the technical workspace you'll use on the day. The session covers:
+[Join the meeting on Microsoft Teams](https://teams.microsoft.com/meet/3353412826008209?p=yVU7TqG3ISda1yISH9){.btn .btn-primary .btn-lg role="button" target="_blank"}
+::::
 
--   Creating your EODH account and signing in to the Hub platform
--   Joining your team's **workspace**
--   Finding datasets in the resource catalogue
--   Running a starter notebook against the hackathon data
--   Q&A
+The Earth Observation Data Hub (EODH) and Imago teams will introduce the technical workspace you'll use on the day. We'll take questions as we go.
+
+| Time | Session | Led by |
+|------|---------|--------|
+| 10 min | **Introduction to EODH:** what the Hub is for, what it can do, and why it is useful for accessing and analysing Earth observation data | EODH |
+| 10 min | **Platform overview and demo:** navigating the platform; workspaces, computing environments and storage; finding other datasets such as Landsat and Sentinel-2; managing files, saving work and exporting outputs; limitations and good practice | EODH |
+| 25 min | **Hackathon workspaces, datasets and notebooks:** opening your team workspace and launching Jupyter; finding the preloaded datasets and materials; walking through the Python notebooks; running example code to load, explore, analyse and visualise the data | Imago |
+| 5 min | **Next steps:** what to do before the hackathon, documentation, resources and where to get technical support | Imago |
 
 ::: callout-tip
 **Before 2 December**\

@@ -37,6 +37,10 @@ book:
 margin-header: |
   ![](/assets/all_logos.png){fig-alt="Imago, Earth Observation Data Hub and Insights North East logos"}
 
+  ![](/assets/logos/NCEO_logo.jpg){fig-alt="National Centre for Earth Observation logo" .partner-logo}
+
+  ![](/assets/logos/UoL_logo.png){fig-alt="University of Leicester logo" .partner-logo}
+
 format:
   html:
     theme:

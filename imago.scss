@@ -108,6 +108,9 @@ blockquote { border-left: 3px solid $green; color: $imago-grey; }
 
 // Margin logo
 .margin-header img { max-width: 150px; height: auto; }
+.margin-header p { margin-bottom: 0.6rem; }
+// Partner logos: match the visible width of the logos in all_logos.png (all_logos.png fills the column; its logos span ~89% of it, inset ~5.5%)
+.quarto-margin-header img.partner-logo { width: 89%; max-width: 89%; margin-left: 5.5%; }
 
 // Footer: kept simple, as in the Book of Imagery
 .nav-footer { font-size: 0.85rem; }

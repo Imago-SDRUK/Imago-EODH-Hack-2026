@@ -166,7 +166,7 @@
     "href": "preparation.html#eodh-workspace-introduction-wednesday-2-december-11001200",
     "title": "Preparation Meetings",
     "section": "2. EODH workspace introduction — Wednesday 2 December, 11:00–12:00",
-    "text": "2. EODH workspace introduction — Wednesday 2 December, 11:00–12:00\n\n\n\n\n\n\nOnline, on Microsoft Teams · Wednesday 2 December, 11:00–12:00\nJoin the meeting on Microsoft Teams\n\n\n\nThe Earth Observation Data Hub (EODH) and Imago teams will introduce the technical workspace you’ll use on the day. We’ll take questions as we go.\n\n\n\n\n\n\n\n\nTime\nSession\nLed by\n\n\n\n\n10 min\nIntroduction to EODH: what the Hub is for, what it can do, and why it is useful for accessing and analysing Earth observation data\nEODH\n\n\n10 min\nPlatform overview and demo: navigating the platform; workspaces, computing environments and storage; finding other datasets such as Landsat and Sentinel-2; managing files, saving work and exporting outputs; limitations and good practice\nEODH\n\n\n25 min\nHackathon workspaces, datasets and notebooks: opening your team workspace and launching Jupyter; finding the preloaded datasets and materials; walking through the Python notebooks; running example code to load, explore, analyse and visualise the data\nImago\n\n\n5 min\nNext steps: what to do before the hackathon, documentation, resources and where to get technical support\nImago\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nBefore 2 December\nCreate your EODH account (with a GitHub, Google or Microsoft login) and send us the email address you used, following Steps 1–2 of Getting Started with EODH.\n\n\nPolicy participants are very welcome at this session too — seeing what the workspace can do will help when shaping your team’s question — but it is most important for technical participants.",
+    "text": "2. EODH workspace introduction — Wednesday 2 December, 11:00–12:00\n\n\n\n\n\n\nOnline, on Microsoft Teams · Wednesday 2 December, 11:00–12:00\nJoin the meeting on Microsoft Teams\n\n\n\nThe Earth Observation Data Hub (EODH) and Imago teams will introduce the technical workspace you’ll use on the day. We’ll take questions as we go.\n\n\n\n\n\n\n\n\nTime\nSession\nLed by\n\n\n\n\n10 min\nIntroduction to EODH: what the Hub is for, what it can do, and why it is useful for accessing and analysing Earth observation data\nEODH\n\n\n10 min\nPlatform overview and demo: navigating the platform; workspaces, computing environments and storage; finding other datasets such as Landsat and Sentinel-2; managing files, saving work and exporting outputs; limitations and good practice\nEODH\n\n\n25 min\nHackathon workspaces, datasets and notebooks: opening your team workspace and launching Jupyter; finding the preloaded datasets and materials; walking through the Python notebooks; running example code to load, explore, analyse and visualise the data\nImago\n\n\n5 min\nNext steps: what to do before the hackathon, documentation, resources and where to get technical support\nImago\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nBefore 2 December\nCreate your EODH account (with a GitHub, Google or Microsoft login) and send us the email address you used, following Steps 1–2 of Getting Started with EODH. If you have time, have a look at the starter notebooks and data on GitHub (see Resources).\n\n\nPolicy participants are very welcome at this session too — seeing what the workspace can do will help when shaping your team’s question — but it is most important for technical participants.",
     "crumbs": [
       "The Hackathon Day",
       "Preparation Meetings"
@@ -333,6 +333,17 @@
     ]
   },
   {
+    "objectID": "datasets.html#data-access",
+    "href": "datasets.html#data-access",
+    "title": "Data",
+    "section": "",
+    "text": "Tip\n\n\n\nStarter notebooks\nExample Python notebooks for loading and exploring these datasets are in the tutorial/ folder of the GitHub repository. See Hackathon notebooks and data for the full list.",
+    "crumbs": [
+      "Hackathon Challenges",
+      "Data"
+    ]
+  },
+  {
     "objectID": "datasets.html#datasets",
     "href": "datasets.html#datasets",
     "title": "Data",
@@ -381,7 +392,18 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Earth Observation Data Hub\nA curated list of tutorials, courses and software for working with Earth observation and geographic data in Python. The hackathon supports Python only: the EODH workspaces run Python notebooks, and the mentors will support Python code on the day.",
+    "text": "Hackathon notebooks and data\nA curated list of tutorials, courses and software for working with Earth observation and geographic data in Python. The hackathon supports Python only: the EODH workspaces run Python notebooks, and the mentors will support Python code on the day.\nStarter notebooks and ready-to-use data for the hackathon are in the GitHub repository. The same materials will be preloaded in your team’s EODH workspace, and we’ll walk through them at the 2 December session.\nYou don’t need a GitHub account to view or download them: open a notebook on GitHub to read it, or use Code → Download ZIP on the repository page to get everything.",
+    "crumbs": [
+      "Hackathon Challenges",
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#hackathon-notebooks-and-data",
+    "href": "resources.html#hackathon-notebooks-and-data",
+    "title": "Resources",
+    "section": "",
+    "text": "tutorial/: example Python notebooks, each following the same steps (load, explore, analyse, visualise):\n\n01_air_temperature.ipynb: Imago air temperature (MSOA)\n02_rgb_greens.ipynb: RGB greenspace (LSOA)\n05_eodh_data_access.ipynb: accessing Sentinel-2 ARD and Landsat LST through EODH\nNotebooks for Sentinel-3 LST (~1 km) and NCEO LST (~100 m) will be added once those datasets are ready.\n\ndata/: North East boundaries and population/deprivation tables, with column definitions in VARIABLES.md. See the Data page for the full list.\nscripts/: the annotated notebooks used to prepare the data, if you want to see how it was made.",
     "crumbs": [
       "Hackathon Challenges",
       "Resources"
@@ -391,8 +413,8 @@
     "objectID": "resources.html#earth-observation-data-hub",
     "href": "resources.html#earth-observation-data-hub",
     "title": "Resources",
-    "section": "",
-    "text": "Getting Started with EODH — our step-by-step guide for hackathon participants.\nEODH documentation — accounts, workspaces, the resource catalogue, notebooks and APIs.\nEODH FAQs and cheat sheet.",
+    "section": "Earth Observation Data Hub",
+    "text": "Earth Observation Data Hub\n\nGetting Started with EODH — our step-by-step guide for hackathon participants.\nEODH documentation — accounts, workspaces, the resource catalogue, notebooks and APIs.\nEODH FAQs and cheat sheet.",
     "crumbs": [
       "Hackathon Challenges",
       "Resources"

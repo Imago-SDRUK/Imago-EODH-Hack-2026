@@ -53,7 +53,7 @@ The Earth Observation Data Hub (EODH) and Imago teams will introduce the technic
 
 ::: callout-tip
 **Before 2 December**\
-Create your EODH account (with a GitHub, Google or Microsoft login) and send us the email address you used, following **Steps 1–2 of [Getting Started with EODH](eodh-start.qmd)**.
+Create your EODH account (with a GitHub, Google or Microsoft login) and send us the email address you used, following **Steps 1–2 of [Getting Started with EODH](eodh-start.qmd)**. If you have time, have a look at the [starter notebooks and data](https://github.com/Imago-SDRUK/Imago-EODH-Hack-2026/tree/main/tutorial) on GitHub (see [Resources](resources.qmd#hackathon-notebooks-and-data)).
 :::
 
 Policy participants are very welcome at this session too — seeing what the workspace can do will help when shaping your team's question — but it is most important for technical participants.

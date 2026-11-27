@@ -35,6 +35,11 @@ The data fall into three groups: **Imago products** already summarised to policy
 
 All hackathon data will be in your team's **EODH workspace**, ready to open in a Python Jupyter notebook. Set up your account by following [Getting Started with EODH](eodh-start.qmd) before the [2 December session](preparation.qmd). The EODH platform does not display uploaded datasets as maps, so plan to view them in a notebook.
 
+::: callout-tip
+**Starter notebooks**\
+Example Python notebooks for loading and exploring these datasets are in the [`tutorial/`](https://github.com/Imago-SDRUK/Imago-EODH-Hack-2026/tree/main/tutorial) folder of the GitHub repository. See [Hackathon notebooks and data](resources.qmd#hackathon-notebooks-and-data) for the full list.
+:::
+
 Imago's UK-wide products can also be browsed in the [**Imago Data Catalogue**](https://data.imago.ac.uk/), currently a preview release.
 
 <!-- TODO: add workspace name / link once confirmed -->

@@ -209,7 +209,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#earth-observation-data-hub" id="toc-earth-observation-data-hub" class="nav-link active" data-scroll-target="#earth-observation-data-hub">Earth Observation Data Hub</a></li>
+  <li><a href="#hackathon-notebooks-and-data" id="toc-hackathon-notebooks-and-data" class="nav-link active" data-scroll-target="#hackathon-notebooks-and-data">Hackathon notebooks and data</a></li>
+  <li><a href="#earth-observation-data-hub" id="toc-earth-observation-data-hub" class="nav-link" data-scroll-target="#earth-observation-data-hub">Earth Observation Data Hub</a></li>
   <li><a href="#imago" id="toc-imago" class="nav-link" data-scroll-target="#imago">Imago</a></li>
   <li><a href="#geographic-data-science" id="toc-geographic-data-science" class="nav-link" data-scroll-target="#geographic-data-science">Geographic Data Science</a></li>
   <li><a href="#python" id="toc-python" class="nav-link" data-scroll-target="#python">Python</a>
@@ -242,7 +243,44 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>A curated list of tutorials, courses and software for working with Earth observation and geographic data in <strong>Python</strong>. The hackathon supports <strong>Python only</strong>: the EODH workspaces run Python notebooks, and the mentors will support Python code on the day.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Video: a quick tour of this website (4.5 min)
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>A walkthrough of the site: the schedule, preparation meetings, challenges, data and resources.</p>
+<video controls="" preload="none" playsinline="" poster="assets/video/hackathon-walkthrough-poster.jpg" style="width:100%; height:auto; border-radius:4px;">
+  <source src="assets/video/hackathon-walkthrough.mp4" type="video/mp4">
+  <a href="assets/video/hackathon-walkthrough.mp4">Download the video</a>
+</video>
+</div>
+</div>
+</div>
 <hr>
+<section id="hackathon-notebooks-and-data" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="hackathon-notebooks-and-data">Hackathon notebooks and data</h2>
+<p>Starter notebooks and ready-to-use data for the hackathon are in the <a href="https://github.com/Imago-SDRUK/Imago-EODH-Hack-2026"><strong>GitHub repository</strong></a>. The same materials will be preloaded in your team’s EODH workspace, and we’ll walk through them at the <a href="./preparation.html">2 December session</a>.</p>
+<ul>
+<li><a href="https://github.com/Imago-SDRUK/Imago-EODH-Hack-2026/tree/main/tutorial"><strong><code>tutorial/</code></strong></a>: example Python notebooks, each following the same steps (load, explore, analyse, visualise):
+<ul>
+<li><code>01_air_temperature.ipynb</code>: Imago air temperature (MSOA)</li>
+<li><code>02_rgb_greens.ipynb</code>: RGB greenspace (LSOA)</li>
+<li><code>05_eodh_data_access.ipynb</code>: accessing Sentinel-2 ARD and Landsat LST through EODH</li>
+<li>Notebooks for Sentinel-3 LST (~1 km) and NCEO LST (~100 m) will be added once those datasets are ready.</li>
+</ul></li>
+<li><a href="https://github.com/Imago-SDRUK/Imago-EODH-Hack-2026/tree/main/data"><strong><code>data/</code></strong></a>: North East boundaries and population/deprivation tables, with column definitions in <a href="https://github.com/Imago-SDRUK/Imago-EODH-Hack-2026/blob/main/data/VARIABLES.md"><code>VARIABLES.md</code></a>. See the <a href="./datasets.html">Data page</a> for the full list.</li>
+<li><a href="https://github.com/Imago-SDRUK/Imago-EODH-Hack-2026/tree/main/scripts"><strong><code>scripts/</code></strong></a>: the annotated notebooks used to prepare the data, if you want to see how it was made.</li>
+</ul>
+<p>You don’t need a GitHub account to view or download them: open a notebook on GitHub to read it, or use <strong>Code → Download ZIP</strong> on the repository page to get everything.</p>
+<hr>
+</section>
 <section id="earth-observation-data-hub" class="level2 unnumbered">
 <h2 class="unnumbered anchored" data-anchor-id="earth-observation-data-hub">Earth Observation Data Hub</h2>
 <ul>
@@ -250,7 +288,6 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="https://docs.eodatahub.org.uk/"><strong>EODH documentation</strong></a> — accounts, workspaces, the resource catalogue, notebooks and APIs.</li>
 <li><a href="https://docs.eodatahub.org.uk/Help/faqs/"><strong>EODH FAQs</strong></a> and <a href="https://docs.eodatahub.org.uk/Help/cheat-sheet/"><strong>cheat sheet</strong></a>.</li>
 </ul>
-<!-- TODO: add any EODH starter notebooks prepared for the hackathon -->
 <hr>
 </section>
 <section id="imago" class="level2 unnumbered">

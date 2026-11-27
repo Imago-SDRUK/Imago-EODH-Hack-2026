@@ -223,3 +223,7 @@ __marimo__/
 # Hackathon data: cached raw downloads are not committed
 data/raw/
 data/uk_datazones_2021.gpkg
+
+# Raw screen recordings (too large for GitHub) and scratch frames
+*.mov
+assets/video/_frame_*.jpg

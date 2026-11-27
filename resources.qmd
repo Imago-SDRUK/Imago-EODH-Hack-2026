@@ -2,6 +2,35 @@
 
 A curated list of tutorials, courses and software for working with Earth observation and geographic data in **Python**. The hackathon supports **Python only**: the EODH workspaces run Python notebooks, and the mentors will support Python code on the day.
 
+::: {.callout-note collapse="true"}
+## Video: a quick tour of this website (4.5 min)
+
+A walkthrough of the site: the schedule, preparation meetings, challenges, data and resources.
+
+```{=html}
+<video controls preload="none" playsinline poster="assets/video/hackathon-walkthrough-poster.jpg" style="width:100%; height:auto; border-radius:4px;">
+  <source src="assets/video/hackathon-walkthrough.mp4" type="video/mp4">
+  <a href="assets/video/hackathon-walkthrough.mp4">Download the video</a>
+</video>
+```
+:::
+
+------------------------------------------------------------------------
+
+## Hackathon notebooks and data {.unnumbered}
+
+Starter notebooks and ready-to-use data for the hackathon are in the [**GitHub repository**](https://github.com/Imago-SDRUK/Imago-EODH-Hack-2026). The same materials will be preloaded in your team's EODH workspace, and we'll walk through them at the [2 December session](preparation.qmd).
+
+-   [**`tutorial/`**](https://github.com/Imago-SDRUK/Imago-EODH-Hack-2026/tree/main/tutorial): example Python notebooks, each following the same steps (load, explore, analyse, visualise):
+    -   `01_air_temperature.ipynb`: Imago air temperature (MSOA)
+    -   `02_rgb_greens.ipynb`: RGB greenspace (LSOA)
+    -   `05_eodh_data_access.ipynb`: accessing Sentinel-2 ARD and Landsat LST through EODH
+    -   Notebooks for Sentinel-3 LST (~1 km) and NCEO LST (~100 m) will be added once those datasets are ready.
+-   [**`data/`**](https://github.com/Imago-SDRUK/Imago-EODH-Hack-2026/tree/main/data): North East boundaries and population/deprivation tables, with column definitions in [`VARIABLES.md`](https://github.com/Imago-SDRUK/Imago-EODH-Hack-2026/blob/main/data/VARIABLES.md). See the [Data page](datasets.qmd) for the full list.
+-   [**`scripts/`**](https://github.com/Imago-SDRUK/Imago-EODH-Hack-2026/tree/main/scripts): the annotated notebooks used to prepare the data, if you want to see how it was made.
+
+You don't need a GitHub account to view or download them: open a notebook on GitHub to read it, or use **Code → Download ZIP** on the repository page to get everything.
+
 ------------------------------------------------------------------------
 
 ## Earth Observation Data Hub {.unnumbered}
@@ -10,7 +39,6 @@ A curated list of tutorials, courses and software for working with Earth observa
 -   [**EODH documentation**](https://docs.eodatahub.org.uk/) — accounts, workspaces, the resource catalogue, notebooks and APIs.
 -   [**EODH FAQs**](https://docs.eodatahub.org.uk/Help/faqs/) and [**cheat sheet**](https://docs.eodatahub.org.uk/Help/cheat-sheet/).
 
-<!-- TODO: add any EODH starter notebooks prepared for the hackathon -->
 
 ------------------------------------------------------------------------
 

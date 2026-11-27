@@ -1,6 +1,6 @@
 # The Hackathon Day {#sec-workshop .unnumbered}
 
-**Wednesday 9 December 2026 · 10:00–16:00 · Newcastle, UK — venue TBC**
+**Wednesday 9 December 2026 · 10:00–16:00 · Faraday Room, The Catalyst, Newcastle upon Tyne**
 
 A collaborative, fast-paced day working in small interdisciplinary teams on real-world local challenges, using Earth observation products from Imago and the EODH.
 
@@ -11,9 +11,18 @@ All participants should attend the two [preparation meetings](preparation.qmd): 
 
 ------------------------------------------------------------------------
 
+## Venue {.unnumbered}
+
+**Faraday Room, The Catalyst**\
+3 Science Square, Newcastle Helix\
+Newcastle upon Tyne\
+NE4 5TG
+
+------------------------------------------------------------------------
+
 ## Schedule {.unnumbered}
 
-*Draft schedule — timings may shift slightly once the venue is confirmed.*
+*Draft schedule — timings may shift slightly on the day.*
 
 | Time | Session |
 |-----------------|--------------------------------------------------|
@@ -65,9 +74,15 @@ Each team presents for **5 minutes** with **2 minutes of questions**. Policy par
 -   **Honesty:** are the limits of the data and method clear?
 -   **Clarity:** could a non-technical decision-maker understand and act on it?
 
-*Names of mentors and judges will be announced before the event.*
+The judging panel:
 
-<!-- TODO: add mentor and judge names once confirmed -->
+-   **Federica Moscato** (EODH)
+-   **Dani Arribas-Bel** (Principal Investigator, Imago)
+-   A judge from **Insights North East** (name to be confirmed)
+
+*Mentor names will be announced before the event.*
+
+<!-- TODO: add mentor names and the Insights North East judge once confirmed -->
 
 ------------------------------------------------------------------------
 

@@ -44,7 +44,7 @@
     "href": "index.html#partners",
     "title": "From Pixels to Policy: An Earth Observation Hackathon",
     "section": "Partners",
-    "text": "Partners\n\n\n\nPartner\nRole\n\n\n\n\nImago: Data Service for Imagery\nOrganiser; satellite-derived data products (Data Catalogue)\n\n\nEarth Observation Data Hub (EODH)\nTechnical workspace and access to UK Earth observation data\n\n\nInsights North East (INE) · North East Data Network\nPolicy partnerships and the North East data–policy community",
+    "text": "Partners\n\n\n\nPartner\nRole\n\n\n\n\nImago: Data Service for Imagery\nOrganiser; satellite-derived data products (Data Catalogue)\n\n\nEarth Observation Data Hub (EODH)\nTechnical workspace and access to UK Earth observation data\n\n\nInsights North East (INE) · North East Data Network\nPolicy partnerships and the North East data–policy community\n\n\nNational Centre for Earth Observation (NCEO) · Surface Temperature Group, University of Leicester\n100 m land surface temperature data. Science Leader for LST CCI+ and Sentinel-3 LST Lead",
     "crumbs": [
       "Welcome"
     ]
@@ -94,7 +94,7 @@
     "href": "workshop.html",
     "title": "The Hackathon Day",
     "section": "",
-    "text": "Schedule\nWednesday 9 December 2026 · 10:00–16:00 · Newcastle, UK — venue TBC\nA collaborative, fast-paced day working in small interdisciplinary teams on real-world local challenges, using Earth observation products from Imago and the EODH.\nDraft schedule — timings may shift slightly once the venue is confirmed.",
+    "text": "Venue\nWednesday 9 December 2026 · 10:00–16:00 · Faraday Room, The Catalyst, Newcastle upon Tyne\nA collaborative, fast-paced day working in small interdisciplinary teams on real-world local challenges, using Earth observation products from Imago and the EODH.\nFaraday Room, The Catalyst\n3 Science Square, Newcastle Helix\nNewcastle upon Tyne\nNE4 5TG",
     "crumbs": [
       "The Hackathon Day"
     ]
@@ -103,8 +103,8 @@
     "objectID": "workshop.html#schedule",
     "href": "workshop.html#schedule",
     "title": "The Hackathon Day",
-    "section": "",
-    "text": "Time\nSession\n\n\n\n\n09:30–10:00\nArrival, registration and coffee\n\n\n10:00–10:30\nWelcome, framing and a quick tour of the data\n\n\n10:30–12:30\nSprint 1 — scope, explore and build\n\n\n12:30–13:15\nLunch\n\n\n13:15–13:30\nMid-point stand-up (2 minutes per team)\n\n\n13:30–15:00\nSprint 2 — build, refine and prepare to present\n\n\n15:00–15:45\nTeam presentations (5 min + 2 min Q&A)\n\n\n15:45–16:00\nFeedback from policy partners and close",
+    "section": "Schedule",
+    "text": "Schedule\nDraft schedule — timings may shift slightly on the day.\n\n\n\nTime\nSession\n\n\n\n\n09:30–10:00\nArrival, registration and coffee\n\n\n10:00–10:30\nWelcome, framing and a quick tour of the data\n\n\n10:30–12:30\nSprint 1 — scope, explore and build\n\n\n12:30–13:15\nLunch\n\n\n13:15–13:30\nMid-point stand-up (2 minutes per team)\n\n\n13:30–15:00\nSprint 2 — build, refine and prepare to present\n\n\n15:00–15:45\nTeam presentations (5 min + 2 min Q&A)\n\n\n15:45–16:00\nFeedback from policy partners and close",
     "crumbs": [
       "The Hackathon Day"
     ]
@@ -124,7 +124,7 @@
     "href": "workshop.html#mentors-and-judges",
     "title": "The Hackathon Day",
     "section": "Mentors and judges",
-    "text": "Mentors and judges\nMentors. Each team is supported through the day by mentors from Imago and the EODH, who help with data access, methods and code, and by policy mentors who help keep the work anchored to a real decision. Mentors also join the team meeting on 30 November and the EODH session on 2 December.\nJudges. A small panel of policy and technical partners will watch the presentations and give feedback. They will look for:\n\nRelevance: does the output answer a question a council or public health team actually needs answered?\nUse of the data: is the data used sensibly, at a scale that suits the question?\nHonesty: are the limits of the data and method clear?\nClarity: could a non-technical decision-maker understand and act on it?\n\nNames of mentors and judges will be announced before the event.",
+    "text": "Mentors and judges\nMentors. Each team is supported through the day by mentors from Imago and the EODH, who help with data access, methods and code, and by policy mentors who help keep the work anchored to a real decision. Mentors also join the team meeting on 30 November and the EODH session on 2 December.\nJudges. A small panel of policy and technical partners will watch the presentations and give feedback. They will look for:\n\nRelevance: does the output answer a question a council or public health team actually needs answered?\nUse of the data: is the data used sensibly, at a scale that suits the question?\nHonesty: are the limits of the data and method clear?\nClarity: could a non-technical decision-maker understand and act on it?\n\nThe judging panel:\n\nFederica Moscato (EODH)\nDani Arribas-Bel (Principal Investigator, Imago)\nA judge from Insights North East (name to be confirmed)\n\nMentor names will be announced before the event.",
     "crumbs": [
       "The Hackathon Day"
     ]
@@ -144,7 +144,7 @@
     "href": "preparation.html",
     "title": "Preparation Meetings",
     "section": "",
-    "text": "1. Team meeting — Monday 30 November\nFor the day to run smoothly, it is essential that all attendees take part in both preparation meetings. They let teams meet in advance, agree their problem statement and get the technical workspace working before arriving in Newcastle.\nTime: to be confirmed for each group\nFormat: online\nIn this session you will:",
+    "text": "1. Team meeting — Monday 30 November\nFor the day to run smoothly, it is essential that all attendees take part in both preparation meetings. They let teams meet in advance, agree their problem statement and get the technical workspace working before arriving in Newcastle.\nFormat: online, on Microsoft Teams. Each team has its own meeting link, sent by Brigid Bell (brigid.bell@liverpool.ac.uk). If you haven’t received yours, or need to change slot, please get in touch with Brigid.\nIn this session you will:",
     "crumbs": [
       "The Hackathon Day",
       "Preparation Meetings"
@@ -155,7 +155,7 @@
     "href": "preparation.html#team-meeting-monday-30-november",
     "title": "Preparation Meetings",
     "section": "",
-    "text": "Meet the other members of your team\nReceive your team’s problem statement from our policy partners\nDiscuss what decision the problem statement supports and who would use the output\nAgree roles for the day (e.g. data lead, policy lead, presenter)\n\n\n\n\n\n\n\nNote\n\n\n\nCan’t attend?\nIf you can’t make your team’s slot, you can contribute by email instead. Let the organisers know in advance and we’ll share the problem statement and ask for your input on scope and roles.",
+    "text": "Time\nTeam\nMentor\n\n\n\n\n11:00–11:30\nSurface Tension\nMunazza Usmani\n\n\n11:30–12:00\nGreen Buffer\nRon Mahabir\n\n\n12:00–12:30\nUnequal Degrees\nElisabetta Pietrostefani\n\n\n12:30–13:00\nDegrees Apart\nVitaly Kryukov\n\n\n\n\n\nMeet the other members of your team\nReceive your team’s problem statement from our policy partners\nDiscuss what decision the problem statement supports and who would use the output\nAgree roles for the day (e.g. data lead, policy lead, presenter)\n\n\n\n\n\n\n\nNote\n\n\n\nCan’t attend?\nIf you can’t make your team’s slot, you can contribute by email instead. Let Brigid know in advance and we’ll share the problem statement and ask for your input on scope and roles.",
     "crumbs": [
       "The Hackathon Day",
       "Preparation Meetings"
@@ -166,7 +166,7 @@
     "href": "preparation.html#eodh-workspace-introduction-wednesday-2-december-11001200",
     "title": "Preparation Meetings",
     "section": "2. EODH workspace introduction — Wednesday 2 December, 11:00–12:00",
-    "text": "2. EODH workspace introduction — Wednesday 2 December, 11:00–12:00\nFormat: online \nThe Earth Observation Data Hub team will introduce the technical workspace you’ll use on the day. The session covers:\n\nCreating your EODH account and signing in to the Hub platform\nJoining your team’s workspace\nFinding datasets in the resource catalogue\nRunning a starter notebook against the hackathon data\nQ&A\n\n\n\n\n\n\n\nTip\n\n\n\nBefore 2 December\nCreate your EODH account (with a GitHub, Google or Microsoft login) and send us the email address you used, following Steps 1–2 of Getting Started with EODH.\n\n\nPolicy participants are very welcome at this session too — seeing what the workspace can do will help when shaping your team’s question — but it is most important for technical participants.",
+    "text": "2. EODH workspace introduction — Wednesday 2 December, 11:00–12:00\n\n\n\n\n\n\nOnline, on Microsoft Teams · Wednesday 2 December, 11:00–12:00\nJoin the meeting on Microsoft Teams\n\n\n\nThe Earth Observation Data Hub (EODH) and Imago teams will introduce the technical workspace you’ll use on the day. We’ll take questions as we go.\n\n\n\n\n\n\n\n\nTime\nSession\nLed by\n\n\n\n\n10 min\nIntroduction to EODH: what the Hub is for, what it can do, and why it is useful for accessing and analysing Earth observation data\nEODH\n\n\n10 min\nPlatform overview and demo: navigating the platform; workspaces, computing environments and storage; finding other datasets such as Landsat and Sentinel-2; managing files, saving work and exporting outputs; limitations and good practice\nEODH\n\n\n25 min\nHackathon workspaces, datasets and notebooks: opening your team workspace and launching Jupyter; finding the preloaded datasets and materials; walking through the Python notebooks; running example code to load, explore, analyse and visualise the data\nImago\n\n\n5 min\nNext steps: what to do before the hackathon, documentation, resources and where to get technical support\nImago\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nBefore 2 December\nCreate your EODH account (with a GitHub, Google or Microsoft login) and send us the email address you used, following Steps 1–2 of Getting Started with EODH.\n\n\nPolicy participants are very welcome at this session too — seeing what the workspace can do will help when shaping your team’s question — but it is most important for technical participants.",
     "crumbs": [
       "The Hackathon Day",
       "Preparation Meetings"

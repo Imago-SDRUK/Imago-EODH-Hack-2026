@@ -7,14 +7,14 @@ This file is not part of the website; it is a checklist for the organisers. Each
 - [ ] Turn on GitHub Pages for the upstream repo (Settings → Pages → deploy from `main`, folder `/docs`) once merged
 
 ## Logistics
-- [ ] `index.qmd` / `workshop.qmd` — venue once confirmed (currently "Newcastle — venue TBC")
-- [ ] `preparation.qmd` — platform and link for the **30 Nov team meeting**, and time per team
-- [ ] `preparation.qmd` — platform and link for the **2 Dec EODH session** (11:00–12:00)
+- [x] `index.qmd` / `workshop.qmd` — venue: Faraday Room, The Catalyst, 3 Science Square, Newcastle Helix, NE4 5TG
+- [x] `preparation.qmd` — **30 Nov team meeting**: Teams, slots and mentors added (links sent per team by mentors)
+- [x] `preparation.qmd` — **2 Dec EODH session**: Teams link and agenda added
 - [ ] `eodh-start.qmd` — who participants send their EODH account email to (form or email) and the deadline
 - [ ] `workshop.qmd` — check the draft 10:00–16:00 schedule timings
 - [ ] `workshop.qmd` — confirm welcome speakers (Imago, EODH, INE, local authority)
 - [x] `workshop.qmd` — mentors and judges section added
-- [ ] `workshop.qmd` — add mentor and judge names
+- [ ] `workshop.qmd` — add mentor names and the Insights North East judge (Federica Moscato and Dani Arribas-Bel added)
 
 ## With EODH
 - [ ] `eodh-start.qmd` — confirm hackathon workspaces cover hosted notebooks for all members, and who owns them

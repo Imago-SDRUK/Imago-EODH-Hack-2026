@@ -1,9 +1,7 @@
 
 # Hackathon Tutorials
-
-Example Python notebooks for accessing and exploring datasets provided for the IMAGO EODH Hackathon 2026.
-
-Each notebook follows four main sections: Load, Explore, Analyse and Visualise.
+The dataset tutorials follow a consistent workflow covering data  access, loading, exploration, analysis and visualisation, with 
+supporting explanations and guidance on interpreting the results.
 
 ## Available notebooks
 
@@ -16,7 +14,11 @@ Each notebook follows four main sections: Load, Explore, Analyse and Visualise.
 | [05_eodh_data_access.ipynb](05_eodh_data_access.ipynb) | Accessing Sentinel-2 ARD and Landsat LST through EODH | Available |
 
 The remaining notebooks will be uploaded once the corresponding datasets are ready.
+## To Do
 
+- [ ] Update the RGB tutorial with the direct dataset link from the IMAGO Data Catalogue following the product release.
+- [ ] Update the Sentinel-3 LST tutorial with the direct dataset links for summer daytime and night-time products following their release.
+- [ ] Finalise and upload the NCEO LST tutorial once the dataset is available.
 ## Data location and paths
 
 The notebooks currently use relative data paths based on the following folder structure used for development and testing:

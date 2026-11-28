@@ -11,7 +11,7 @@ Each notebook follows four main sections: Load, Explore, Analyse and Visualise.
 |---|---|---|
 | [01_air_temp.ipynb](01_air_temp.ipynb) | IMAGO Air Temperature (MSOA) | Available |
 | [02_rgb.ipynb](02_rgb.ipynb) | RGB Greenspace (LSOA) | Available |
-| 03_lst_sentinel3.ipynb | Sentinel-3 LST, ~1 km (MSOA) | In preparation |
+| [03_lst_sentinel3.ipynb](03_lst_sentinel3.ipynb) | Sentinel-3 LST, ~1 km (MSOA) | Available |
 | 04_lst_nceo.ipynb | NCEO LST, ~100 m (LSOA) | In preparation |
 | [05_eodh_data_access.ipynb](05_eodh_data_access.ipynb) | Accessing Sentinel-2 ARD and Landsat LST through EODH | Available |
 

@@ -9,7 +9,7 @@ Each notebook follows four main sections: Load, Explore, Analyse and Visualise.
 
 | Notebook | Dataset | Status |
 |---|---|---|
-| [01_air_temperature.ipynb](01_air_temperature.ipynb) | IMAGO Air Temperature (MSOA) | Available |
+| [01_air_temperature.ipynb](01_air_temperature.ipynb) | IMAGO Air Temperature (MSOA) | In preparation |
 | [02_rgb_greens.ipynb](02_rgb_greens.ipynb) | RGB Greenspace (LSOA) | Available |
 | 03_lst_sentinel3.ipynb | Sentinel-3 LST, ~1 km (MSOA) | In preparation |
 | 04_lst_nceo.ipynb | NCEO LST, ~100 m (LSOA) | In preparation |
